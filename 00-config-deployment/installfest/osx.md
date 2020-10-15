@@ -1,6 +1,6 @@
 # Mac OSX
 
-## SEI Seattle Install Fest
+## SEI Atlanta Install Fest
 
 ## PART 1
 
