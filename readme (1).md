@@ -94,48 +94,48 @@ Additionally, much of the original Python material \(locally\) was developed at 
 | Topic | Labs + Assignments |
 | :--- | :--- |
 | [Internet Fundamentals](09-other-topics/internet-fundamentals/) | [Internet Lab](09-other-topics/internet-fundamentals/internetlab.md) |
-| [Command Line](01-workflow/01readme/)    [Intro to Git](01-workflow/intro-git/) | [Command Line Murder Mystery](https://github.com/WDI-SEA/command-line-murder-mystery)    [Github 101](https://github.com/WDI-SEA/github_101) |
+| [Command Line](01-workflow/01readme/)    [Intro to Git](01-workflow/intro-git/) | [Command Line Murder Mystery](https://github.com/SEA-ATL/command-line-murder-mystery)    [Github 101](https://github.com/SEA-ATL/github_101) |
 | [HTML](03-html-css/html-review.md)    [CSS Selectors](03-html-css/css-selectors.md) |  |
-| [CSS Box Model and Positioning](https://github.com/TaylorDarneille/SEI713/tree/feb41c43027720651f2fb255a1438409b05525a7/03-html-css/css-box-model/readme.md) | [Recreate Instagram](https://github.com/WDI-SEA/css-positioning)    [Recreate Airbnb](https://github.com/WDI-SEA/css-airbnb) |
-| [JavaScript Primitives](javascript/js-primitives.md) | [Primitives Exercises](https://github.com/WDI-SEA/js-primitives) |
-| [JavaScript Control Flow](javascript/js-control-flow/) | [Control Flow Problems](https://github.com/WDI-SEA/js-control-flow)    [Google Shopping](https://github.com/WDI-SEA/google-shopping-conditionals-loops) |
-| [JavaScript Functions](https://github.com/TaylorDarneille/SEI713/tree/feb41c43027720651f2fb255a1438409b05525a7/02-js-jquery/js-functions/readme.md) | [Functions Problem Set](https://github.com/WDI-SEA/js-functions)    [Google Shopping Functions](https://github.com/WDI-SEA/google-shopping-functions) |
-| [DOM and Events](https://github.com/TaylorDarneille/SEI713/tree/feb41c43027720651f2fb255a1438409b05525a7/02-js-jquery/js-dom-events/readme.md) | [Reddit DOM](https://github.com/WDI-SEA/selecting-reddit)    [Temperature Converter](https://github.com/WDI-SEA/temperature-converter-dom) |
-| [Callbacks and Iterators](https://github.com/TaylorDarneille/SEI713/tree/feb41c43027720651f2fb255a1438409b05525a7/02-js-jquery/js-callbacks-iterators/readme.md) | [Iterators Lab](https://github.com/WDI-SEA/js-callbacks-iterators)    [Iterators with Reddit](https://github.com/WDI-SEA/iterators-reddit) |
-| [Intro to jQuery](jquery/jquery-intro/) | [Random Quote Generator](https://github.com/WDI-SEA/random-quote-jquery)    [Todo List](https://github.com/WDI-SEA/jquery-todo-list) |
-| [jQuery Plugins](jquery/jquery-plugins.md) | [jQuery UI Lab](https://github.com/WDI-SEA/jquery-plugins) |
-| [AJAX](https://github.com/TaylorDarneille/SEI713/tree/feb41c43027720651f2fb255a1438409b05525a7/02-js-jquery/jquery-ajax/readme.md) | [AJAX Pokemons](https://github.com/WDI-SEA/jquery-ajax)    [Reddit AJAX Slideshow](https://github.com/WDI-SEA/ajax-reddit-slideshow) |
+| [CSS Box Model and Positioning](https://github.com/TaylorDarneille/SEI713/tree/feb41c43027720651f2fb255a1438409b05525a7/03-html-css/css-box-model/readme.md) | [Recreate Instagram](https://github.com/SEA-ATL/css-positioning)    [Recreate Airbnb](https://github.com/SEA-ATL/css-airbnb) |
+| [JavaScript Primitives](javascript/js-primitives.md) | [Primitives Exercises](https://github.com/SEA-ATL/js-primitives) |
+| [JavaScript Control Flow](javascript/js-control-flow/) | [Control Flow Problems](https://github.com/SEA-ATL/js-control-flow)    [Google Shopping](https://github.com/SEA-ATL/google-shopping-conditionals-loops) |
+| [JavaScript Functions](https://github.com/TaylorDarneille/SEI713/tree/feb41c43027720651f2fb255a1438409b05525a7/02-js-jquery/js-functions/readme.md) | [Functions Problem Set](https://github.com/SEA-ATL/js-functions)    [Google Shopping Functions](https://github.com/SEA-ATL/google-shopping-functions) |
+| [DOM and Events](https://github.com/romebell/SEI1019/tree/feb41c43027720651f2fb255a1438409b05525a7/02-js-jquery/js-dom-events/readme.md) | [Reddit DOM](https://github.com/SEA-ATL/selecting-reddit)    [Temperature Converter](https://github.com/SEA-ATL/temperature-converter-dom) |
+| [Callbacks and Iterators](https://github.com/TaylorDarneille/SEI713/tree/feb41c43027720651f2fb255a1438409b05525a7/02-js-jquery/js-callbacks-iterators/readme.md) | [Iterators Lab](https://github.com/SEA-ATL/js-callbacks-iterators)    [Iterators with Reddit](https://github.com/SEA-ATL/iterators-reddit) |
+| [Intro to jQuery](jquery/jquery-intro/) | [Random Quote Generator](https://github.com/SEA-ATL/random-quote-jquery)    [Todo List](https://github.com/SEA-ATL/jquery-todo-list) |
+| [jQuery Plugins](jquery/jquery-plugins.md) | [jQuery UI Lab](https://github.com/SEA-ATL/jquery-plugins) |
+| [AJAX](https://github.com/TaylorDarneille/SEI713/tree/feb41c43027720651f2fb255a1438409b05525a7/02-js-jquery/jquery-ajax/readme.md) | [AJAX Pokemons](https://github.com/SEA-ATL/jquery-ajax)    [Reddit AJAX Slideshow](https://github.com/SEA-ATL/ajax-reddit-slideshow) |
 | [Responsive CSS](03-html-css/css-responsive-design/) |  |
-| [Bootstrap](03-html-css/css-bootstrap.md) | [Bootstrap Mockups](https://github.com/WDI-SEA/bootstrap-mockups) |
+| [Bootstrap](03-html-css/css-bootstrap.md) | [Bootstrap Mockups](https://github.com/SEA-ATL/bootstrap-mockups) |
 | [User Stories and Wireframing](09-other-topics/user-stories-wireframing/) | [Wireframing: Build an Idea](09-other-topics/user-stories-wireframing/exercise.md) |
-| [OOP with Constructors/Prototypes](javascript/01readme-1/)    [Intro to TDD](javascript/js-tdd-intro.md) | [Prototype Body Shop](https://github.com/WDI-SEA/oop-prototype-car) |
+| [OOP with Constructors/Prototypes](javascript/01readme-1/)    [Intro to TDD](javascript/js-tdd-intro.md) | [Prototype Body Shop](https://github.com/SEA-ATL/oop-prototype-car) |
 | [Scopes](javascript/js-scopes.md) |  |
-| [JavaScript Inheritance](javascript/01readme-2/) | [Body Shop 2](https://github.com/WDI-SEA/oop-inheritance-car) |
+| [JavaScript Inheritance](javascript/01readme-2/) | [Body Shop 2](https://github.com/SEA-ATL/oop-inheritance-car) |
 
 | Projects and Additional Topics |
 | :--- |
-| [Tic Tac Toe](https://github.com/WDI-SEA/tic-tac-toe) |
+| [Tic Tac Toe](https://github.com/SEA-ATL/tic-tac-toe) |
 | [Project 1](11-projects/project-1.md) |
-| [Code Review](https://github.com/WDI-SEA/code-review) |
+| [Code Review](https://github.com/SEA-ATL/code-review) |
 
 ### NodeJS/Express
 
 | Topic | Assignments |
 | :--- | :--- |
-| [Intro to Express](https://github.com/TaylorDarneille/SEI713/tree/feb41c43027720651f2fb255a1438409b05525a7/05-express/express-intro/01readme.md) | [Daily Planet](https://github.com/WDI-SEA/express-daily-planet) |
-| [Organization and APIs](https://github.com/TaylorDarneille/SEI713/tree/feb41c43027720651f2fb255a1438409b05525a7/05-express/express-apis/01readme.md)    [Foreman](00-config-deployment/deploy-rails/foreman.md) | [OMDB Movie Search](https://github.com/WDI-SEA/express-apis-omdb) |
-| [Intro to SQL](04-databases/sql-intro.md) | [Apartment Lab](https://github.com/WDI-SEA/apartment-database) |
-| [Intro to SQL](04-databases/sql-intro.md) | [Carmen San Diego Lab](https://github.com/WDI-SEA/sql-carmen-san-diego) |
-| [Advanced SQL](04-databases/sql-advanced.md) | [Booktown](https://github.com/WDI-SEA/booktown) |
-| [CRUD in Express](https://wdi_sea.gitbooks.io/notes/content/05-express/express-intro/05crudexpress.html) | [Cruddy Board Games](https://github.com/WDI-SEA/cruddy-board-games) |
-| [Full RESTful Routing w/AJAX](https://github.com/TaylorDarneille/SEI713/tree/feb41c43027720651f2fb255a1438409b05525a7/05-express/express-ajax-crud/readme.md) | [Hackathon Teams](https://github.com/WDI-SEA/hackathon-teams)    [Daily Planet with AJAX \(old\)](https://github.com/WDI-SEA/express-daily-planet-ajax) |
-| [Express with Databases via Sequelize](https://github.com/TaylorDarneille/SEI713/tree/feb41c43027720651f2fb255a1438409b05525a7/05-express/express-sequelize/readme.md) | [Pokedex](https://github.com/WDI-SEA/express-pokedex)    [Link Shortener](https://github.com/WDI-SEA/link-shortener) |
-| [Sequelize 1:M](https://github.com/TaylorDarneille/SEI713/tree/feb41c43027720651f2fb255a1438409b05525a7/05-express/express-1-to-many/readme.md) | [Comments w/BlogPulse](https://github.com/WDI-SEA/express-blogpulse) |
-| [Sequelize M:M](https://github.com/TaylorDarneille/SEI713/tree/feb41c43027720651f2fb255a1438409b05525a7/05-express/express-many-to-many/readme.md) | [Project Organizer](https://github.com/WDI-SEA/express-project-organizer) |
-| [Express Testing with Mocha and Chai](https://github.com/TaylorDarneille/SEI713/tree/feb41c43027720651f2fb255a1438409b05525a7/05-express/express-mocha-testing/readme.md) | [Starter code](https://github.com/WDI-SEA/mocha-chai-starter) |
+| [Intro to Express](https://github.com/TaylorDarneille/SEI713/tree/feb41c43027720651f2fb255a1438409b05525a7/05-express/express-intro/01readme.md) | [Daily Planet](https://github.com/SEA-ATL/express-daily-planet) |
+| [Organization and APIs](https://github.com/TaylorDarneille/SEI713/tree/feb41c43027720651f2fb255a1438409b05525a7/05-express/express-apis/01readme.md)    [Foreman](00-config-deployment/deploy-rails/foreman.md) | [OMDB Movie Search](https://github.com/SEA-ATL/express-apis-omdb) |
+| [Intro to SQL](04-databases/sql-intro.md) | [Apartment Lab](https://github.com/SEA-ATL/apartment-database) |
+| [Intro to SQL](04-databases/sql-intro.md) | [Carmen San Diego Lab](https://github.com/SEA-ATL/sql-carmen-san-diego) |
+| [Advanced SQL](04-databases/sql-advanced.md) | [Booktown](https://github.com/SEA-ATL/booktown) |
+| [CRUD in Express](https://wdi_sea.gitbooks.io/notes/content/05-express/express-intro/05crudexpress.html) | [Cruddy Board Games](https://github.com/SEA-ATL/cruddy-board-games) |
+| [Full RESTful Routing w/AJAX](https://github.com/TaylorDarneille/SEI713/tree/feb41c43027720651f2fb255a1438409b05525a7/05-express/express-ajax-crud/readme.md) | [Hackathon Teams](https://github.com/SEA-ATL/hackathon-teams)    [Daily Planet with AJAX \(old\)](https://github.com/SEA-ATL/express-daily-planet-ajax) |
+| [Express with Databases via Sequelize](https://github.com/TaylorDarneille/SEI713/tree/feb41c43027720651f2fb255a1438409b05525a7/05-express/express-sequelize/readme.md) | [Pokedex](https://github.com/SEA-ATL/express-pokedex)    [Link Shortener](https://github.com/SEA-ATL/link-shortener) |
+| [Sequelize 1:M](https://github.com/TaylorDarneille/SEI713/tree/feb41c43027720651f2fb255a1438409b05525a7/05-express/express-1-to-many/readme.md) | [Comments w/BlogPulse](https://github.com/SEA-ATL/express-blogpulse) |
+| [Sequelize M:M](https://github.com/TaylorDarneille/SEI713/tree/feb41c43027720651f2fb255a1438409b05525a7/05-express/express-many-to-many/readme.md) | [Project Organizer](https://github.com/SEA-ATL/express-project-organizer) |
+| [Express Testing with Mocha and Chai](https://github.com/TaylorDarneille/SEI713/tree/feb41c43027720651f2fb255a1438409b05525a7/05-express/express-mocha-testing/readme.md) | [Starter code](https://github.com/SEA-ATL/mocha-chai-starter) |
 | [Express Authentication Theory \(Research/Code\)](https://github.com/TaylorDarneille/SEI713/tree/feb41c43027720651f2fb255a1438409b05525a7/05-express/express-auth/theory/readme.md) |  |
-| [Express Authentication Practice \(Codealong\)](https://github.com/TaylorDarneille/SEI713/tree/feb41c43027720651f2fb255a1438409b05525a7/05-express/express-auth/practice/readme.md) | [Starter Template](https://github.com/WDI-SEA/express-authentication) |
-| [Deploy Node to Heroku](00-config-deployment/deploy-node.md) | [Example App](https://github.com/WDI-SEA/tacoapp) |
+| [Express Authentication Practice \(Codealong\)](https://github.com/TaylorDarneille/SEI713/tree/feb41c43027720651f2fb255a1438409b05525a7/05-express/express-auth/practice/readme.md) | [Starter Template](https://github.com/SEA-ATL/express-authentication) |
+| [Deploy Node to Heroku](00-config-deployment/deploy-node.md) | [Example App](https://github.com/SEA-ATL/tacoapp) |
 
 | Projects and Additional Topics |
 | :--- |
@@ -145,85 +145,85 @@ Additionally, much of the original Python material \(locally\) was developed at 
 | [Geocoding/Maps](https://github.com/TaylorDarneille/SEI713/tree/feb41c43027720651f2fb255a1438409b05525a7/05-express/additional-topics/express-geocode/readme.md) |
 | [Image Uploads with Cloudinary](https://github.com/TaylorDarneille/SEI713/tree/feb41c43027720651f2fb255a1438409b05525a7/05-express/additional-topics/express-cloudinary/readme.md) |
 | [Post Project 2](11-projects/post-project-2.md) |
-| [Code Review](https://github.com/WDI-SEA/code-review) |
+| [Code Review](https://github.com/SEA-ATL/code-review) |
 
 ### Ruby on Rails
 
 | Topic | Assignments |
 | :--- | :--- |
-| [Intro to Ruby](ruby/ruby-intro.md) | [Ruby Exercises](https://github.com/WDI-SEA/ruby-exercises)    [Ruby Challenges](https://github.com/WDI-SEA/ruby-challenges) |
+| [Intro to Ruby](ruby/ruby-intro.md) | [Ruby Exercises](https://github.com/SEA-ATL/ruby-exercises)    [Ruby Challenges](https://github.com/SEA-ATL/ruby-challenges) |
 | [Ruby Classes](ruby/ruby-classes.md) |  |
-| [Ruby Testing with Rspec](ruby/ruby-rspec.md) | [Rspec Testing](https://github.com/WDI-SEA/rspec-testing) |
-| [Ruby Inheritance](ruby/ruby-inheritance.md) | [Rio Grande](https://github.com/WDI-SEA/ruby-rio-grande) |
-| [Intro to Rails](rails/rails-intro.md) | [National Parks](https://github.com/WDI-SEA/rails-national-parks) |
+| [Ruby Testing with Rspec](ruby/ruby-rspec.md) | [Rspec Testing](https://github.com/SEA-ATL/rspec-testing) |
+| [Ruby Inheritance](ruby/ruby-inheritance.md) | [Rio Grande](https://github.com/SEA-ATL/ruby-rio-grande) |
+| [Intro to Rails](rails/rails-intro.md) | [National Parks](https://github.com/SEA-ATL/rails-national-parks) |
 | [APIs with Rest-Client](rails/rails-apis.md) |  |
-| [Data Scraping with Nokogiri](ruby/ruby-data-scraping.md) | [Nokogiri CLI Tool](https://github.com/WDI-SEA/nokogiri-cli-tool) |
+| [Data Scraping with Nokogiri](ruby/ruby-data-scraping.md) | [Nokogiri CLI Tool](https://github.com/SEA-ATL/nokogiri-cli-tool) |
 | [Rails Asset Pipeline](rails/rails-assets-frontend.md) |  |
-| [Rails Auth/1:M](rails/rails-auth-1-m/) | [Link Board](https://github.com/WDI-SEA/link-board) |
-| [Rails M:M](rails/rails-m-m.md) | [National Parks Part 2: Rangers](https://github.com/WDI-SEA/rails-national-parks/blob/master/part2.md) |
-| [Polymorphic Associations](rails/rails-polymorphism.md) | [Link Board Comments](https://github.com/WDI-SEA/link-board/blob/master/part2.md) |
+| [Rails Auth/1:M](rails/rails-auth-1-m/) | [Link Board](https://github.com/SEA-ATL/link-board) |
+| [Rails M:M](rails/rails-m-m.md) | [National Parks Part 2: Rangers](https://github.com/SEA-ATL/rails-national-parks/blob/master/part2.md) |
+| [Polymorphic Associations](rails/rails-polymorphism.md) | [Link Board Comments](https://github.com/SEA-ATL/link-board/blob/master/part2.md) |
 
 | Projects and Additional Topics |
 | :--- |
-| [Front End Hackathon](https://github.com/WDI-SEA/front-end-hackathon) |
+| [Front End Hackathon](https://github.com/SEA-ATL/front-end-hackathon) |
 | [Project 3](11-projects/project-3/) |
 | [Group Collaboration](01-workflow/01readme-1/) |
 | [oAuth](rails/additional-topics/rails-oauth.md) |
 | [Mailers](rails/additional-topics/rails-mailers.md) |
 | [Image Uploads with Cloudinary](rails/additional-topics/rails-cloudinary.md) |
 | [Static Site Generators \(Jekyll\)](rails/additional-topics/ruby-jekyll.md) |
-| [JS/jQuery Review](https://github.com/WDI-SEA/js-jquery-review) |
+| [JS/jQuery Review](https://github.com/SEA-ATL/js-jquery-review) |
 
 ### Python
 
 | Topic | Assignments |
 | :--- | :--- |
-| Intro to Python | [Intro to Python](https://github.com/WDI-SEA/intro-python) |
-| Python Exercises | [Python Exercises](https://github.com/WDI-SEA/python-exercises) |
-| Python Challenges | [Python Challenges](https://github.com/WDI-SEA/python-challenges) |
-| Arrays and For Loops | [Convert JS to PY](https://github.com/WDI-SEA/python-arrays-and-for-loops) |
+| Intro to Python | [Intro to Python](https://github.com/SEA-ATL/intro-python) |
+| Python Exercises | [Python Exercises](https://github.com/SEA-ATL/python-exercises) |
+| Python Challenges | [Python Challenges](https://github.com/SEA-ATL/python-challenges) |
+| Arrays and For Loops | [Convert JS to PY](https://github.com/SEA-ATL/python-arrays-and-for-loops) |
 | File Processing | [Renobet](https://github.com/geluso/renobet) |
-| Python Unit Tests | [Python Unit Tests](https://github.com/WDI-SEA/python-unit-tests) |
-| Python Class Examples | [Python Class Examples](https://github.com/WDI-SEA/python-class-examples) |
-| Recursion | [Python Recursion](https://github.com/WDI-SEA/python-recursion) |
-| Binary Search | [Python Binary Search](https://github.com/WDI-SEA/python-binary-search) |
-| Linked Lists | [Python Linked Lists](https://github.com/WDI-SEA/python-linked-lists) |
-| Binary Trees | [Python Recursion](https://github.com/WDI-SEA/python-binary-trees) |
-| Graphs | [Python Graph](https://github.com/WDI-SEA/python-graph-data-structure) |
-| Sorting | [Python Sorting Algorithms](https://github.com/WDI-SEA/python-sorting-algorithms) |
+| Python Unit Tests | [Python Unit Tests](https://github.com/SEA-ATL/python-unit-tests) |
+| Python Class Examples | [Python Class Examples](https://github.com/SEA-ATL/python-class-examples) |
+| Recursion | [Python Recursion](https://github.com/SEA-ATL/python-recursion) |
+| Binary Search | [Python Binary Search](https://github.com/SEA-ATL/python-binary-search) |
+| Linked Lists | [Python Linked Lists](https://github.com/SEA-ATL/python-linked-lists) |
+| Binary Trees | [Python Recursion](https://github.com/SEA-ATL/python-binary-trees) |
+| Graphs | [Python Graph](https://github.com/SEA-ATL/python-graph-data-structure) |
+| Sorting | [Python Sorting Algorithms](https://github.com/SEA-ATL/python-sorting-algorithms) |
 
 ### AngularJS 1.x and APIs
 
 | Topic | Assignments |
 | :--- | :--- |
-| [Intro to Angular](00-archived/07-angular/angular-intro/) | [Angular Calculator](https://github.com/WDI-SEA/angular-calculator) |
-| [Directives and Filters](00-archived/07-angular/angular-directives-filters.md) | [Fruits and Veggies](https://github.com/WDI-SEA/fruits-and-veggies) |
+| [Intro to Angular](00-archived/07-angular/angular-intro/) | [Angular Calculator](https://github.com/SEA-ATL/angular-calculator) |
+| [Directives and Filters](00-archived/07-angular/angular-directives-filters.md) | [Fruits and Veggies](https://github.com/SEA-ATL/fruits-and-veggies) |
 | [Animation with ngAnimate](00-archived/07-angular/angular-animation.md) |  |
 | [Bootstrap Directives](00-archived/07-angular/angular-bootstrap-directives/) |  |
-| [$http](00-archived/07-angular/angular-http.md) | [\(DEPRECATED\) Reddit Dashboard](https://github.com/WDI-SEA/angular-reddit-dashboard)    [Giphy Search](https://github.com/WDI-SEA/angular-giphy) |
+| [$http](00-archived/07-angular/angular-http.md) | [\(DEPRECATED\) Reddit Dashboard](https://github.com/SEA-ATL/angular-reddit-dashboard)    [Giphy Search](https://github.com/SEA-ATL/angular-giphy) |
 | [Angular Services](00-archived/07-angular/angular-services/) |  |
-| [Angular Routing \(UI Router\)](00-archived/07-angular/angular-routing.md) | [Route Those Views](https://github.com/WDI-SEA/angular-route-those-views) |
+| [Angular Routing \(UI Router\)](00-archived/07-angular/angular-routing.md) | [Route Those Views](https://github.com/SEA-ATL/angular-route-those-views) |
 | [Intro to MongoDB](04-databases/mongo-intro/)    [Mongoose](https://github.com/TaylorDarneille/SEI713/tree/feb41c43027720651f2fb255a1438409b05525a7/05-express/express-mongoose/readme.md) |  |
-| [JSON Web Tokens](https://github.com/TaylorDarneille/SEI713/tree/feb41c43027720651f2fb255a1438409b05525a7/05-express/express-jwt/readme.md) | [RESTful API](https://github.com/WDI-SEA/restful-api) |
-| [Angular + Express](00-archived/07-angular/angular-express.md)    [Starter Code](https://github.com/WDI-SEA/fly-on-angular) |  |
-| [Angular Authentication](00-archived/07-angular/angular-authentication/) | [Starter Code](https://github.com/WDI-SEA/angular-recipes) |
-| [Custom Filters](00-archived/07-angular/angular-custom-filters.md) | [Creating Filters](https://github.com/WDI-SEA/angular-filters) |
-| [Custom Directives](00-archived/07-angular/angular-custom-directives.md) | [Creating Directives](https://github.com/WDI-SEA/angular-directives) |
+| [JSON Web Tokens](https://github.com/TaylorDarneille/SEI713/tree/feb41c43027720651f2fb255a1438409b05525a7/05-express/express-jwt/readme.md) | [RESTful API](https://github.com/SEA-ATL/restful-api) |
+| [Angular + Express](00-archived/07-angular/angular-express.md)    [Starter Code](https://github.com/SEA-ATL/fly-on-angular) |  |
+| [Angular Authentication](00-archived/07-angular/angular-authentication/) | [Starter Code](https://github.com/SEA-ATL/angular-recipes) |
+| [Custom Filters](00-archived/07-angular/angular-custom-filters.md) | [Creating Filters](https://github.com/SEA-ATL/angular-filters) |
+| [Custom Directives](00-archived/07-angular/angular-custom-directives.md) | [Creating Directives](https://github.com/SEA-ATL/angular-directives) |
 | [Angular Components](00-archived/07-angular/angular-components.md) |  |
 
 ### React
 
 | Topic | Assignments + Labs |
 | :--- | :--- |
-| [Intro to ES6](https://github.com/WDI-SEA/react_es6_global/blob/master/01-es6.md)    [Let and Const](https://github.com/WDI-SEA/react_es6_global/blob/master/02-es6-const-let.md)    [Arrow Functions](https://github.com/WDI-SEA/react_es6_global/blob/master/03-es6-arrow.md) | [ES6 Overview](https://github.com/WDI-SEA/react_es6_global/blob/master/05-es6-exercise.md) |
-| \[Intro to ReactJS\]\[\] | [React Video \(2m\)](https://generalassembly.wistia.com/medias/lr8idjxtx8)    [React Video \(8:30-16:30\)](https://www.youtube.com/watch?v=KVZ-P-ZI6W4&feature=youtu.be&t=510)    [Create React App](https://github.com/WDI-SEA/react_intro_global/blob/master/02-initial-setup.md) |
-| [React Components](https://github.com/WDI-SEA/react_intro_global/blob/master/03-components.md)    [React Virtual DOM](https://github.com/WDI-SEA/react_intro_global/blob/master/04-virtual-dom.md) | [Virtual DOM Video](https://www.youtube.com/watch?v=-DX3vJiqxm4) |
-| [React Props](https://github.com/WDI-SEA/react_intro_global/blob/master/05-props.md)    [Multiple Props](https://github.com/WDI-SEA/react_intro_global/blob/master/06-multiple-props.md) | [React Props](https://github.com/WDI-SEA/react_intro_global/blob/master/07-props-challenge.md)    [React Nested Components](https://github.com/WDI-SEA/react_intro_global/blob/master/08-nested-components.md)    [LotR Lab](https://github.com/WDI-SEA/lotr-solution-code) |
-| [React State](https://github.com/WDI-SEA/react_state_exercises_global/blob/master/01_state.md) | [React Films](https://github.com/WDI-SEA/react_intro_global/blob/master/12-film-1-components.md)    [React Calculator](https://github.com/WDI-SEA/react_state_exercises_global/blob/master/07_calculator_exercise.md)    [React ATM](https://github.com/WDI-SEA/react_atm_global) |
-| [React Router pt 1](https://github.com/WDI-SEA/react_router_global/blob/master/01-router-introduction.md)    [React Router pt 2](https://github.com/WDI-SEA/react_router_global/blob/master/02-react-router-intro.md) | [Router Blog](https://github.com/WDI-SEA/react_intro_global/blob/master/07-props-challenge.md) |
-| [APIs](https://github.com/WDI-SEA/react_apis_heroku_global/blob/master/01-APIs.md)    [Data Types](https://github.com/WDI-SEA/react_apis_heroku_global/blob/master/02-data-types.md) | [Shakespeare Fetch](https://github.com/WDI-SEA/react_apis_heroku_global/blob/master/03-fetch.md) |
-| [Unidirectional Flow](https://github.com/WDI-SEA/react_es6_global/blob/master/08-unidirectional-flow.md) | [Fetch the Weather](https://github.com/WDI-SEA/react_apis_heroku_global/blob/master/04-fetch-project.md) |
-| [Functional Components](https://github.com/WDI-SEA/react_es6_global/blob/master/06-functional-components.md) | [Functional Components Lab](https://github.com/WDI-SEA/react_functional_components) |
+| [Intro to ES6](https://github.com/SEA-ATL/react_es6_global/blob/master/01-es6.md)    [Let and Const](https://github.com/SEA-ATL/react_es6_global/blob/master/02-es6-const-let.md)    [Arrow Functions](https://github.com/SEA-ATL/react_es6_global/blob/master/03-es6-arrow.md) | [ES6 Overview](https://github.com/SEA-ATL/react_es6_global/blob/master/05-es6-exercise.md) |
+| \[Intro to ReactJS\]\[\] | [React Video \(2m\)](https://generalassembly.wistia.com/medias/lr8idjxtx8)    [React Video \(8:30-16:30\)](https://www.youtube.com/watch?v=KVZ-P-ZI6W4&feature=youtu.be&t=510)    [Create React App](https://github.com/SEA-ATL/react_intro_global/blob/master/02-initial-setup.md) |
+| [React Components](https://github.com/SEA-ATL/react_intro_global/blob/master/03-components.md)    [React Virtual DOM](https://github.com/SEA-ATL/react_intro_global/blob/master/04-virtual-dom.md) | [Virtual DOM Video](https://www.youtube.com/watch?v=-DX3vJiqxm4) |
+| [React Props](https://github.com/SEA-ATL/react_intro_global/blob/master/05-props.md)    [Multiple Props](https://github.com/SEA-ATL/react_intro_global/blob/master/06-multiple-props.md) | [React Props](https://github.com/SEA-ATL/react_intro_global/blob/master/07-props-challenge.md)    [React Nested Components](https://github.com/SEA-ATL/react_intro_global/blob/master/08-nested-components.md)    [LotR Lab](https://github.com/SEA-ATL/lotr-solution-code) |
+| [React State](https://github.com/SEA-ATL/react_state_exercises_global/blob/master/01_state.md) | [React Films](https://github.com/SEA-ATL/react_intro_global/blob/master/12-film-1-components.md)    [React Calculator](https://github.com/SEA-ATL/react_state_exercises_global/blob/master/07_calculator_exercise.md)    [React ATM](https://github.com/SEA-ATL/react_atm_global) |
+| [React Router pt 1](https://github.com/SEA-ATL/react_router_global/blob/master/01-router-introduction.md)    [React Router pt 2](https://github.com/SEA-ATL/react_router_global/blob/master/02-react-router-intro.md) | [Router Blog](https://github.com/SEA-ATL/react_intro_global/blob/master/07-props-challenge.md) |
+| [APIs](https://github.com/SEA-ATL/react_apis_heroku_global/blob/master/01-APIs.md)    [Data Types](https://github.com/SEA-ATL/react_apis_heroku_global/blob/master/02-data-types.md) | [Shakespeare Fetch](https://github.com/SEA-ATL/react_apis_heroku_global/blob/master/03-fetch.md) |
+| [Unidirectional Flow](https://github.com/SEA-ATL/react_es6_global/blob/master/08-unidirectional-flow.md) | [Fetch the Weather](https://github.com/SEA-ATL/react_apis_heroku_global/blob/master/04-fetch-project.md) |
+| [Functional Components](https://github.com/SEA-ATL/react_es6_global/blob/master/06-functional-components.md) | [Functional Components Lab](https://github.com/SEA-ATL/react_functional_components) |
 | [Redux Intro](https://git.generalassemb.ly/jamieking/redux-todo-list/tree/redux-impl) | [Lab 1](https://git.generalassemb.ly/atl-wdi/wdi-curriculum/blob/master/instructor_notes/redux/state-management-and-intro-to-redux.md) [Lab 2](https://git.generalassemb.ly/atl-wdi/wdi-curriculum/blob/master/instructor_notes/redux/react-with-redux.md) |
 | [React Native Set-Up](https://git.generalassemb.ly/wdi-wc-march2018/warm-ups/blob/master/week-8/monday.md)    [React Native Lesson](https://git.generalassemb.ly/wdi-wc-march2018/react-native/blob/master/README.md) | [Navigators](https://reactnavigation.org/docs/en/hello-react-navigation.html)    [Deployment](https://docs.expo.io/versions/latest/guides/building-standalone-apps.html) |
 
@@ -231,12 +231,12 @@ Additionally, much of the original Python material \(locally\) was developed at 
 | :--- |
 | [Project 4](11-projects/project-4.md) |
 | [MEAN/MERN Hackathon](11-projects/mean-hackathon/) |
-| [Interview Questions](https://github.com/WDI-SEA/interview-questions) |
+| [Interview Questions](https://github.com/SEA-ATL/interview-questions) |
 | [ES6 Variables and Strings \(Codepen\)](http://codepen.io/bhague1281/pen/EKyMVz) |
 | [ES6 Arrow Functions \(Codepen\)](http://codepen.io/bhague1281/pen/aNZPrq) |
-| [Imperative vs Declarative](https://github.com/WDI-SEA/react_apis_heroku_global/blob/master/05-declarative-imperative.md) |
+| [Imperative vs Declarative](https://github.com/SEA-ATL/react_apis_heroku_global/blob/master/05-declarative-imperative.md) |
 | [Deploying React Apps](https://gawdiseattle.gitbooks.io/wdi/10-react/react-deploy/readme.html) |
-| [React-Tac-Toe](https://github.com/WDI-SEA/react-tac-toe) |
+| [React-Tac-Toe](https://github.com/SEA-ATL/react-tac-toe) |
 
 ### Computer Science
 
