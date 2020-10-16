@@ -9,7 +9,7 @@ Local storage is an object that is retained even if the browser is reloaded. We 
 **Set value**
 
 ```javascript
-localStorage.name = 'Taylor';
+localStorage.name = 'Rome';
 ```
 
 **Get value**
@@ -23,10 +23,10 @@ Refresh page - still there!
 ## Using JSON stringify / parse
 
 ```javascript
-localStorage.age = 25;
+localStorage.age = 32;
 localStorage.stoked = true;
-localStorage.obsessions = ["my dog", "Hannah Hart", "slightly-too-much makeup lewks"]
-var myFaves = {food: "oysters", number: "27", album: "Infinity On High"};
+localStorage.obsessions = ["books", "working out", "drinking coffee"]
+var myFaves = {food: "shrimp tacos", number: "5", album: "Views"};
 localStorage.faves = myFaves;
 ```
 

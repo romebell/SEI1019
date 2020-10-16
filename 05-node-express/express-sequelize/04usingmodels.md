@@ -12,9 +12,9 @@ const db = require('./models')
 
 ```javascript
 db.user.create({
-    firstName: 'Taylor',
-    lastName: 'Darneille',
-    age: 27
+    firstName: 'Rome',
+    lastName: 'Bell',
+    age: 32
 }).then(createdUser=>{
     // the create promise returns the
     // new row of data that has been created
@@ -27,7 +27,7 @@ db.user.create({
 
 ```javascript
 db.user.findOne({
-    where: {firstName: 'Taylor'}
+    where: {firstName: 'Rome'}
 }).then(foundUser=>{
     console.log(foundUser)
 })
