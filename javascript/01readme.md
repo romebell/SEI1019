@@ -88,16 +88,16 @@ _**css**_
 _**js**_
 
 ```javascript
-var myDiv = document.getElementById('hello');
+const myDiv = document.getElementById('hello');
 
 console.log(myDiv);
 
-var theSquares = document.getElementsByClassName("square");
+const theSquares = document.getElementsByClassName("square");
 
 console.log(theSquares[0]);
 console.log(theSquares[1]);
 
-var theDivs = document.getElementsByTagName("div")
+const theDivs = document.getElementsByTagName("div")
 
 console.log(theDivs[0]);
 console.log(theDivs[1]);
@@ -115,20 +115,20 @@ Try using the `id` to `console.log` the first `div`. What `document` method did 
 _**js**_
 
 ```javascript
-var myDiv2 = document.querySelector('#gb');
+const myDiv2 = document.querySelector('#gb');
 
 console.log(myDiv2);
 
-var mySquares2 = document.querySelectorAll('.square')
+const mySquares2 = document.querySelectorAll('.square')
 ;
 
-console.log(mySquares2[0])
-console.log(mySquares2[1])
+console.log(mySquares2[0]);
+console.log(mySquares2[1]);
 
-var myDivs2 = document.querySelectorAll('div');
+const myDivs2 = document.querySelectorAll('div');
 
-console.log(myDivs2[0])
-console.log(myDivs2[1])
+console.log(myDivs2[0]);
+console.log(myDivs2[1]);
 ```
 
 #### Changing DOM Elements
@@ -145,8 +145,8 @@ myDiv2.style.height="300px";
 _**single DOM element changes**_
 
 ```javascript
-myDiv.innerText = "I love WDI"
-myDiv2.innerHTML = "<h2>I love GA</h2>"
+myDiv.innerText = "I love WDI";
+myDiv2.innerHTML = "<h2>I love GA</h2>";
 ```
 
 #### Manipulating Multiple DOM Elements
@@ -155,11 +155,11 @@ What if I want to do something to both divs at once?
 
 ```javascript
 // this wont work!
-theSquares.style.border = "2px dashed black"
+theSquares.style.border = "2px dashed black";
 
 // but this will
 for(var i = 0; i<theSquares.length; i++) {
-  theSquares[i].style.border ="dashed 2px black"
+  theSquares[i].style.border = "dashed 2px black";
 }
 ```
 
@@ -212,7 +212,7 @@ console.log(document.querySelector('div').classList);
 And just like the HTML collection, we can access the values in the classList like an array.
 
 ```javascript
-var helloDiv = document.querySelector('div');
+const helloDiv = document.querySelector('div');
 console.log(helloDiv.classList[0]);
 ```
 
@@ -233,7 +233,7 @@ You can remove a class from the classList:
 
 ```javascript
 helloDiv.classList.remove('yellow');
-console.log(helloDiv.classList.contains('yellow'))
+console.log(helloDiv.classList.contains('yellow'));
 ```
 
 **DOM Events**
@@ -278,13 +278,13 @@ _**addEventListener\(\[event type\],\[function that you want to run when the eve
 ```javascript
 document.addEventListener('DOMContentLoaded', function(){
 
-    var helloDiv = document.getElementById("hello")
+    const helloDiv = document.getElementById("hello");
     
-    var alertClick = function() {
-        console.log("HELLO WAS CLICKED")
+    const alertClick = function() {
+        console.log("HELLO WAS CLICKED");
     }
 
-    helloDiv.addEventListener("click", alertClick)
+    helloDiv.addEventListener("click", alertClick);
 
 }
 ```
@@ -296,19 +296,19 @@ It's possible to remove an added event listener, however, only if a named functi
 ```javascript
 document.addEventListener('DOMContentLoaded', function(){
 
-    var helloDiv = document.getElementById("hello")
+    const helloDiv = document.getElementById("hello");
 
-    var goodbyDiv = document.getElementById("gb")
+    const goodbyDiv = document.getElementById("gb");
     
-    var alertClick = function() {
-        console.log("HELLO WAS CLICKED")
+    const alertClick = function() {
+        console.log("HELLO WAS CLICKED");
     }
 
-    helloDiv.addEventListener("click", alertClick)
+    helloDiv.addEventListener("click", alertClick);
 
     goodbyDiv.addEventListener("click", function() {
-        console.log("removing event listener!")
-        helloDiv.removeEventListener("click", alertClick)
+        console.log("removing event listener!");
+        helloDiv.removeEventListener("click", alertClick);
     })
 
 })
