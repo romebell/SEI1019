@@ -179,13 +179,13 @@ Math.floor(3.9999)
 Having made some expressions it becomes evident we want to store these values.
 
 ```javascript
-var myNumber = 1;
+let myNumber = 1;
 // or also
 
-var myString = "Greetings y'all!";
+let myString = "Greetings y'all!";
 ```
 
-The main note to make here is that these variables should always have the `var` keyword and use `camelCase`
+The main note to make here is that these variables should always have the `let` keyword and use `camelCase`. You also may see the `var` keyword as well from time to time. We will talk more about the difference later.
 
 ## Objects Everywhere
 
