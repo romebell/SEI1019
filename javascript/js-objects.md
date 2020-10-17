@@ -13,7 +13,7 @@ Objects in JavaScript can even hold functions. When a function is a member of an
 The most common way of creating an object is called **object literal syntax**. We bound the object in curly braces `{ }` and literally type our keys and values into them separated by commas:
 
 ```javascript
-var friend = {firstName: "Jane", lastName: "Doe"}
+const friend = {firstName: "Jane", lastName: "Doe"}
 ```
 
 **Note:** We still use camelCase for the keys in an object.
@@ -119,16 +119,16 @@ mySophisticatedObject.sayGoodBye();
 An object has a way to internally refer to itself. It is the `this` keyword. The concept of `this` can be fairly complicated but used in this capacity is it pretty straightforward. Inside an object, we can use `this.key` to refer to the value in that key in that object:
 
 ```javascript
-var firstProgrammer = {
+const firstProgrammer = {
   name: "Ada Lovelace",
   rank: "FIRST!!!",
   brag: function() {
-    console.log("I'm " + this.name + " and I'm " + this.rank);
+    console.log("I'm " + this.name + " and I'm the " + this.rank);
   }
 }
 
 firstProgrammer.brag();
-// ==> prints "I'm Ada Lovelace and I'm FIRST!!!"
+// ==> prints "I'm Ada Lovelace and I'm the FIRST!!!"
 ```
 
 ### Looping Over Objects
@@ -136,13 +136,13 @@ firstProgrammer.brag();
 The **for...in** loop is made for looping through all the key-value pairs in an Object.
 
 ```javascript
-var car = {
+const car = {
   wheels: 4,
   doors: 2,
   seats: 5
 };
-for (var thing in car) {
-  console.log("My car has " + car[thing] + " " + thing);
+for (let part in car) {
+  console.log("My car has " + car[part] + " " + part);
 }
 
 // Will print out:
@@ -156,26 +156,26 @@ for (var thing in car) {
 1.\) Represent the following values in an object:
 
 ```text
-"John", "Doe", 36, "1234 Park st".
+"John", "Doe", 36, "1234 Park St".
 ```
 
-2.\) Once you've represented the above as an object, update John's address to `1234 Park ln`.
+2.\) Once you've represented the above as an object, update John's address to `1234 Park Ln`.
 
 3.\) Using a combination of Objects and Array, how would you represent the following data:
 
 ```text
-Moe, Doe, 31, 1234 Park st.
-Larry, Doe, 36, 1234 Spark st.
-Curly, Doe, 36, 1239 Park st.
-Jane, Doe, 32, 1239 Spark st.
-Emma, Doe, 34, 1235 Spark st.
-Elizabeth, Doe, 36, 1234 Park st.
-Elinor, Doe, 35, 1230 Park st.
-Mary, Doe, 31, 1231 Park st.
-Darcy, Doe, 32, 1224 Park st.
-Grey, Doe, 34, 1214 Park st.
-Lydia, Doe, 30, 1294 Park st.
-Harriet, Doe, 32, 1324 Park st.
+Moe, Doe, 31, 1234 Park St.
+Larry, Doe, 36, 1234 Spark St.
+Curly, Doe, 36, 1239 Park St.
+Jane, Doe, 32, 1239 Spark St.
+Emma, Doe, 34, 1235 Spark St.
+Elizabeth, Doe, 36, 1234 Park St.
+Elinor, Doe, 35, 1230 Park St.
+Mary, Doe, 31, 1231 Park St.
+Darcy, Doe, 32, 1224 Park St.
+Grey, Doe, 34, 1214 Park St.
+Lydia, Doe, 30, 1294 Park St.
+Harriet, Doe, 32, 1324 Park St.
 ```
 
 4.\) Mary is taking to the road, so she no longer has an address. Delete her address!
