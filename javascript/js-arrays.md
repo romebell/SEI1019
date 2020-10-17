@@ -9,7 +9,7 @@ Arrays are great for:
 * Quickly reordering data
 
 ```javascript
-var friends = ['Moe', 'Larry', 'Curly'];
+const friends = ['Moe', 'Larry', 'Curly'];
 // => ['Moe', 'Larry', 'Curly']
 ```
 
@@ -17,11 +17,11 @@ Items in an array are stored in sequential order, and indexed starting at `0` an
 
 ```javascript
 // First friend
-var firstFriend = friends[0];
+const firstFriend = friends[0];
 // => 'Moe'
 
 // Get the last friend
-var lastFriend = friends[2]
+const lastFriend = friends[2]
 // => 'Curly'
 ```
 
@@ -30,7 +30,7 @@ var lastFriend = friends[2]
 Grab the person next to you. One person, create a variable that equals a comma delimited string with at least four of your favorite foods.
 
 ```javascript
-var favorites = "noodles,bread,cheese,filet mignon";
+const favorites = "noodles,bread,cheese,filet mignon";
 ```
 
 Have the second person turn that string into an array, then the first person should ask the second what their third favorite food is.
@@ -40,7 +40,7 @@ Have the second person turn that string into an array, then the first person sho
 Grab the person next to you. One person, create a variable that equals a comma delimited string with at least four of your favorite foods.
 
 ```javascript
-var favorites = "noodles,bread,cheese,filet mignon";
+let favorites = "noodles,bread,cheese,filet mignon";
 ```
 
 Have the second person turn that string into an array, then the first person should ask the second what their third favorite food is.
@@ -52,19 +52,19 @@ Often we want to write code that interacts with everything in an array. Let's sa
 For a moment, let's assume we have four items on our receipt. We could "hard-code" a program to manually add up all of the items:
 
 ```javascript
-var subTotals = [2.99, 3.00, 2.75, 14.99];
-var total = subTotals[0] + subTotals[1] + subTotals[2] + subTotals[3];
+const subTotals = [2.99, 3.00, 2.75, 14.99];
+let total = subTotals[0] + subTotals[1] + subTotals[2] + subTotals[3];
 ```
 
 We say the above example is "hard-coded" because it's brittle. The code assumes there's exactly four items in the array. The code would cause an error if there were less than four items. The code would fail to add anything beyond the first four items in the list. Instead of hard-coding our program we can use a for loop to _iterate_ over the array and calculate a total no matter how many things are in the array!
 
 ```javascript
 // Make a variable to keep track of the total. Start it at zero.
-var total = 0;
+let total = 0;
 
 // Create a for loop that starts at i = 0, and increments i++
 // as long as i is less than the length of the list.
-for (var i = 0; i < subTotals.length; i++) {
+for (let i = 0; i < subTotals.length; i++) {
   // add the subtotal of each item to our total.
   total += subTotals[i];
 }
@@ -77,11 +77,11 @@ Iterating over arrays is very common.
 Use a for loop to iterate over an array. Calculate the average value of all numbers in the array. Consider how your code would operate on empty arrays, arrays with one value, arrays with two values, and arrays of any length.
 
 ```javascript
-var a1 = [];
-var a2 = [14];
-var a3 = [29, 32];
-var a4 = [16, 99, -40];
-var a5 = [12, 28, 92, 23, 94, 23, 99, 99, 99, 92];
+const a1 = [];
+const a2 = [14];
+const a3 = [29, 32];
+const a4 = [16, 99, -40];
+const a5 = [12, 28, 92, 23, 94, 23, 99, 99, 99, 92];
 ```
 
 ## Array Methods
