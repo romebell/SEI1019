@@ -92,7 +92,7 @@ delete friend['middleName']
 We can add a method to an object as easily as we add a data value. We can either do it when we create the object as a literal:
 
 ```javascript
-var mySophisticatedObject = {
+const mySophisticatedObject = {
   name: "Ulysses S. Grant",
   rank: "General",
   sayHello: function() {
