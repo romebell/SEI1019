@@ -178,7 +178,7 @@ What if I want to change an attribute, like the src on this img?
 There are 2 ways to get and set attributes of a DOM element. You can access the properties directly or use use get/setAttribute methods. It's important that you know both exist, but generally accessing the properties directly is more consistent across browsers.
 
 ```javascript
-var photo = document.querySelector("img");
+const photo = document.querySelector("img");
 
 //get using property
 console.log(photo.src);
