@@ -17,11 +17,11 @@ Items in an array are stored in sequential order, and indexed starting at `0` an
 
 ```javascript
 // First friend
-const firstFriend = friends[0];
+let firstFriend = friends[0];
 // => 'Moe'
 
 // Get the last friend
-const lastFriend = friends[2]
+let lastFriend = friends[2]
 // => 'Curly'
 ```
 
