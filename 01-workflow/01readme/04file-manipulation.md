@@ -154,7 +154,7 @@ cp bookshelf.txt second_bookshelf.txt
 
 Note that if we copy a folder, we'll need to use an additional option, `-r`.
 
-## Removing
+## `rm` - Removing files
 
 To remove files, we use the `rm` command. Let's go back and remove that second bookshelf.
 
