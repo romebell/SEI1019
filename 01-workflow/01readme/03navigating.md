@@ -163,13 +163,13 @@ Navigating to this file would involve quite a lot of typing. Luckily, we can als
 
 ### Relative Path
 
-A **relative path** is a _partial path relative to the current directory_. For example, if Brian was already in `/Users/romebell`, a relative path for the file above would look like this:
+A **relative path** is a _partial path relative to the current directory_. For example, if Rome was already in `/Users/romebell`, a relative path for the file above would look like this:
 
 ```text
 Documents/profile.png
 ```
 
-Note that `/Users/brian` was left off, because `Documents/profile.png` is relative to `/Users/romebell`.
+Note that `/Users/romebell` was left off, because `Documents/profile.png` is relative to `/Users/romebell`.
 
 We can also use relative paths to go back one or more directories.
 
