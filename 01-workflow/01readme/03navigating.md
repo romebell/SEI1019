@@ -16,7 +16,7 @@ Wherever we are, `pwd` \(short for **print working directory**\) will show us wh
 ```text
 pwd
 
-/Users/brian
+/Users/romebell
 ```
 
 Typically the terminal will start in your `HOME` directory, each user has their own `HOME` directory, but on your computer it is common for you to be the only real user. At any given time a terminal shell process has one **current working directory**
@@ -56,16 +56,16 @@ To display this list in a cleaner format, we can pass **options** to the command
 ls -l
 
 total 10
-drwxr-xr-x    2 brian  staff    68 Dec  4 15:13 Applications
-drwx------+   6 brian  staff   204 Mar 23 18:20 Desktop
-drwx------+  11 brian  staff   374 Feb 27 10:57 Documents
-drwx------+ 141 brian  staff  4794 Apr  5 08:04 Downloads
-drwx------@  56 brian  staff  1904 Apr  4 21:58 Library
-drwx------+   3 brian  staff   102 Nov  4 10:49 Movies
-drwx------+   8 brian  staff   272 Mar  5 15:48 Music
-drwx------+  20 brian  staff   680 Mar 23 12:53 Pictures
-drwxr-xr-x+   5 brian  staff   170 Nov  4 10:49 Public
--rwxr-xr-x    1 brian  staff   184 Nov  8 16:41 git_profile.sh
+drwxr-xr-x    2 romebell  staff    68 Dec  4 15:13 Applications
+drwx------+   6 romebell  staff   204 Mar 23 18:20 Desktop
+drwx------+  11 romebell  staff   374 Feb 27 10:57 Documents
+drwx------+ 141 romebell  staff  4794 Apr  5 08:04 Downloads
+drwx------@  56 romebell  staff  1904 Apr  4 21:58 Library
+drwx------+   3 romebell  staff   102 Nov  4 10:49 Movies
+drwx------+   8 romebell  staff   272 Mar  5 15:48 Music
+drwx------+  20 romebell  staff   680 Mar 23 12:53 Pictures
+drwxr-xr-x+   5 romebell  staff   170 Nov  4 10:49 Public
+-rwxr-xr-x    1 romebell  staff   184 Nov  8 16:41 git_profile.sh
 ```
 
 Now we can clearly see what files are in the current working directory. Some of these items are files, some are directories.
@@ -76,9 +76,9 @@ The `ls` command can take a directory as an argument
 ls -l Documents/
 
 total 3
-drwxr-xr-x   4 brian  staff      136 Feb 22 20:01 Rails
--rw-r--r--@  1 brian  staff  8154896 Feb 27 10:57 Profile.png
--rw-r--r--@  1 brian  staff  6258658 Feb 27 10:57 Profile2.png
+drwxr-xr-x   4 romebell  staff      136 Feb 22 20:01 Rails
+-rw-r--r--@  1 romebell  staff  8154896 Feb 27 10:57 Profile.png
+-rw-r--r--@  1 romebell  staff  6258658 Feb 27 10:57 Profile2.png
 ```
 
 ### Listing hidden files
@@ -91,25 +91,25 @@ Using the `a` flag with `ls` will list hidden files. Note we can use flags in co
 ls -la
 
 total 17
-  drwxr-xr-x+  76 brian  staff   2584 Apr  6 10:30 .
-  drwxr-xr-x    6 brian  admin    204 Nov  4 10:47 ..
-  -rw-r--r--@   1 brian  staff  15364 Apr  2 16:00 .DS_Store
-  -rw-------    1 brian  staff   8949 Apr  1 17:21 .bash_history
-  -rw-r--r--    1 brian  staff    285 Mar 17 14:50 .bash_profile
-  -rw-r--r--    1 brian  staff     59 Feb  2 13:47 .bashrc
-  drwxr-xr-x    5 brian  staff    170 Dec  5 13:21 .bundler
-  -rw-r--r--    1 brian  staff    379 Mar  3 17:36 .gitconfig
-  drwxr-xr-x   30 brian  staff   1020 Feb  2 13:47 .rvm
-  drwxr-xr-x    2 brian  staff     68 Dec  4 15:13 Applications
-  drwx------+   6 brian  staff    204 Mar 23 18:20 Desktop
-  drwx------+  11 brian  staff    374 Feb 27 10:57 Documents
-  drwx------+ 141 brian  staff   4794 Apr  5 08:04 Downloads
-  drwx------@  56 brian  staff   1904 Apr  4 21:58 Library
-  drwx------+   3 brian  staff    102 Nov  4 10:49 Movies
-  drwx------+   8 brian  staff    272 Mar  5 15:48 Music
-  drwx------+  20 brian  staff    680 Mar 23 12:53 Pictures
-  drwxr-xr-x+   5 brian  staff    170 Nov  4 10:49 Public
-  -rwxr-xr-x    1 brian  staff    184 Nov  8 16:41 git_profile.sh
+  drwxr-xr-x+  76 romebell  staff   2584 Apr  6 10:30 .
+  drwxr-xr-x    6 romebell  admin    204 Nov  4 10:47 ..
+  -rw-r--r--@   1 romebell  staff  15364 Apr  2 16:00 .DS_Store
+  -rw-------    1 romebell  staff   8949 Apr  1 17:21 .bash_history
+  -rw-r--r--    1 romebell  staff    285 Mar 17 14:50 .bash_profile
+  -rw-r--r--    1 romebell  staff     59 Feb  2 13:47 .bashrc
+  drwxr-xr-x    5 romebell  staff    170 Dec  5 13:21 .bundler
+  -rw-r--r--    1 romebell  staff    379 Mar  3 17:36 .gitconfig
+  drwxr-xr-x   30 romebell  staff   1020 Feb  2 13:47 .rvm
+  drwxr-xr-x    2 romebell  staff     68 Dec  4 15:13 Applications
+  drwx------+   6 romebell  staff    204 Mar 23 18:20 Desktop
+  drwx------+  11 romebell  staff    374 Feb 27 10:57 Documents
+  drwx------+ 141 romebell  staff   4794 Apr  5 08:04 Downloads
+  drwx------@  56 romebell  staff   1904 Apr  4 21:58 Library
+  drwx------+   3 romebell  staff    102 Nov  4 10:49 Movies
+  drwx------+   8 romebell  staff    272 Mar  5 15:48 Music
+  drwx------+  20 romebell  staff    680 Mar 23 12:53 Pictures
+  drwxr-xr-x+   5 romebell  staff    170 Nov  4 10:49 Public
+  -rwxr-xr-x    1 romebell  staff    184 Nov  8 16:41 git_profile.sh
 ```
 
 Hidden Files are typically used by applications to store configurations and there will be many of them in your home directory. Most users don't want to be editing these files so they don't show up in `Finder`, but you as a software developer will be editing some these for yourself.
@@ -156,20 +156,20 @@ cd ~
 An **absolute path** is the _full path written out from the root_. For example, the full path of a file may look like this:
 
 ```text
-/Users/brian/Documents/profile.png
+/Users/romebell/Documents/profile.png
 ```
 
 Navigating to this file would involve quite a lot of typing. Luckily, we can also use relative paths.
 
 ### Relative Path
 
-A **relative path** is a _partial path relative to the current directory_. For example, if Brian was already in `/Users/brian`, a relative path for the file above would look like this:
+A **relative path** is a _partial path relative to the current directory_. For example, if Brian was already in `/Users/romebell`, a relative path for the file above would look like this:
 
 ```text
 Documents/profile.png
 ```
 
-Note that `/Users/brian` was left off, because `Documents/profile.png` is relative to `/Users/brian`.
+Note that `/Users/brian` was left off, because `Documents/profile.png` is relative to `/Users/romebell`.
 
 We can also use relative paths to go back one or more directories.
 
