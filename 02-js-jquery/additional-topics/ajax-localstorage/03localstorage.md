@@ -22,10 +22,10 @@ Refresh page - still there!
 #### Using JSON stringify / parse
 
 ```js
-localStorage.age = 25;
+localStorage.age = 32;
 localStorage.stoked = true;
-localStorage.obsessions = ["my dog", "Hannah Hart", "slightly-too-much makeup lewks"]
-var myFaves = {food: "oysters", number: "27", album: "Infinity On High"};
+localStorage.obsessions = ["Reading", "Workout", "Writing code"]
+var myFaves = {food: "shrimp tacos", number: "5", album: "If You're Reading This It's Too Late"};
 localStorage.faves = myFaves;
 ```
 
