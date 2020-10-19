@@ -25,7 +25,7 @@ You'll only need to do this once per project. If you're cloning a git repo, this
 git status
 ```
 
-Think of `git status` as your dashboard. The command will show you everything you need to know about the current state of your git repo, from untracked files to any outstanding changes that need to be made.
+`git status` can be thought of as your dashboard. The command will show you everything you need to know about the current state of your git repo, from untracked files to any outstanding changes that need to be made.
 
 Currently, there are no commits, so we'll want to put files under the management of git. It'll involve two steps, **adding** and **committing**. These steps are very different.
 
