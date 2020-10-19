@@ -41,7 +41,7 @@ When you complete our program with passing status, you unlock our alumni perks:
     /unit_three
     /unit_four
         /codealongs
-            intro-to-node
+            /intro-to-node
         /deliverables
             /css-airbnb
         /labs
