@@ -27,24 +27,16 @@ Let's `cd` into our new `living_room` Look around with `ls`, and `ls -la`. What 
 
 ## `touch` - Create a file
 
-Creating a file can be done by using the `touch` command. Then, the file can be opened in Sublime Text for editing.
+Creating a file can be done by using the `touch` command. Then, the file can be opened in VS Code for editing.
 
 ```bash
 touch books.txt
 ```
 
-Now you can open that up in your editor of choice:
+Now you can open that up in your editor (VS Code):
 
 ```bash
 code books.txt
-```
-
-```bash
-atom books.txt
-```
-
-```bash
-subl books.txt
 ```
 
 Add a few books, copy and paste the section below so we all have some books in common, and save the file. Make sure the books you add are in the same format: `<author_given_name>, <author_last_name>:<title>`.
@@ -162,7 +154,7 @@ cp bookshelf.txt second_bookshelf.txt
 
 Note that if we copy a folder, we'll need to use an additional option, `-r`.
 
-## Removing
+## `rm` - Removing files
 
 To remove files, we use the `rm` command. Let's go back and remove that second bookshelf.
 
