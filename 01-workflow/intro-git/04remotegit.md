@@ -8,7 +8,7 @@ In the previous section, we worked with a local git repo. Now, let's try working
 
 ## Working with Remote Repositories
 
-We previously mentioned that git is a **distributed version control system**. Meaning, we can make changes locally, and push them up to a server. We can also pull down changes from a server. Throughout WDI, we'll be working with remote repositories mainly through Github in order to submit deliverables. So let's go through an example.
+We previously mentioned that git is a **distributed version control system**. Meaning, we can make changes locally, and push them up to a server. We can also pull down changes from a server. Throughout SEI, we'll be working with remote repositories mainly through Github in order to submit deliverables. So let's go through an example.
 
 ## `git clone` - clone a repository
 
@@ -52,7 +52,7 @@ By default, cloning your Github repo will create remotes for pushing and pulling
 
 ## Forking - Github's way to share and collaborate
 
-When we work on deliverables in WDI and in the software industry, we'll usually be building upon pre-existing scaffolds or projects. In these cases, we'll usually want our own copies to work on, because the project owner won't allow you to make direct changes. Otherwise chaos would ensue!
+When we work on deliverables in SEI and in the software industry, we'll usually be building upon pre-existing scaffolds or projects. In these cases, we'll usually want our own copies to work on, because the project owner won't allow you to make direct changes. Otherwise chaos would ensue!
 
 The solution is to create a **fork** of a repo. It's kinda like a clone, but it's all done on Github and gives you ownership of the copy. You'll then make changes in this fork.
 
