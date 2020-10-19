@@ -94,10 +94,10 @@ git checkout -b (branch name)
 git branch -d (branch name)
 ```
 
-## Merge a branch into master
+## Merge a branch into main (master)
 
 ```text
-git checkout master
+git checkout main
 git merge (other branch name)
 ```
 
@@ -137,10 +137,10 @@ git push (remote name) (optional branch name)
 It's generally a good idea to specify which branch you're pushing. You may have a lot of local branches that your collaborators don't care about. Also, it takes more time to push every branch you may have, so usually I use
 
 ```text
-git push origin master
+git push origin main
 ```
 
-in order to push only to the master branch.
+in order to push only to the main branch.
 
 ## Pull from remote
 
