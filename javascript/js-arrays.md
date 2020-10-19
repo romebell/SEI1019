@@ -25,25 +25,15 @@ let lastFriend = friends[2]
 // => 'Curly'
 ```
 
-## Group Exercise
+## Pair Exercise: String Manipulation
 
-Grab the person next to you. One person, create a variable that equals a comma delimited string with at least four of your favorite foods.
+With your pair, have one person create a variable that equals a comma delimited string with at least four of your favorite foods.
 
 ```javascript
 const favorites = "noodles,bread,cheese,filet mignon";
 ```
 
-Have the second person turn that string into an array, then the first person should ask the second what their third favorite food is.
-
-## Group Exercise
-
-Grab the person next to you. One person, create a variable that equals a comma delimited string with at least four of your favorite foods.
-
-```javascript
-let favorites = "noodles,bread,cheese,filet mignon";
-```
-
-Have the second person turn that string into an array, then the first person should ask the second what their third favorite food is.
+Have the second person turn that string into an array, then the first person should retrieve the third favorite food from the array.
 
 ## Iterating Over Arrays
 
@@ -72,9 +62,9 @@ for (let i = 0; i < subTotals.length; i++) {
 
 Iterating over arrays is very common.
 
-## Self Exercise
+## Pair Exercise: Finding Averages
 
-Use a for loop to iterate over an array. Calculate the average value of all numbers in the array. Consider how your code would operate on empty arrays, arrays with one value, arrays with two values, and arrays of any length.
+With your pair, use a for loop to iterate over an array. Calculate the average value of all numbers in the array. Consider how your code would operate on empty arrays, arrays with one value, arrays with two values, and arrays of any length. Test your code on each of the following arrays:
 
 ```javascript
 const a1 = [];
