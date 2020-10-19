@@ -151,7 +151,7 @@ for (let part in car) {
 // > My car has 5 seats
 ```
 
-## Exercise
+## Pair Exercise
 
 1.\) Represent the following values in an object:
 
@@ -169,13 +169,7 @@ Larry, Doe, 36, 1234 Spark St.
 Curly, Doe, 36, 1239 Park St.
 Jane, Doe, 32, 1239 Spark St.
 Emma, Doe, 34, 1235 Spark St.
-Elizabeth, Doe, 36, 1234 Park St.
-Elinor, Doe, 35, 1230 Park St.
 Mary, Doe, 31, 1231 Park St.
-Darcy, Doe, 32, 1224 Park St.
-Grey, Doe, 34, 1214 Park St.
-Lydia, Doe, 30, 1294 Park St.
-Harriet, Doe, 32, 1324 Park St.
 ```
 
 4.\) Mary is taking to the road, so she no longer has an address. Delete her address!
