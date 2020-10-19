@@ -25,7 +25,7 @@ Refresh page - still there!
 localStorage.age = 32;
 localStorage.stoked = true;
 localStorage.obsessions = ["Reading", "Workout", "Writing code"]
-var myFaves = {food: "shrimp tacos", number: "5", album: "If You're Reading This It's Too Late"};
+var myFaves = { food: "shrimp tacos", number: "5", album: "If You're Reading This It's Too Late" };
 localStorage.faves = myFaves;
 ```
 
