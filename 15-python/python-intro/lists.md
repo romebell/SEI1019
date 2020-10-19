@@ -106,7 +106,7 @@ print(my_class)
     print(len(classmates))
 
     # 3. Add a new classmate
-    classmates.append("Taylor")
+    classmates.append("Rome")
     print(classmates)
 
     # 4. Print the 3rd name on the list

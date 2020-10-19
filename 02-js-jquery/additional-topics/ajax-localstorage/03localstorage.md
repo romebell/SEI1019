@@ -9,7 +9,7 @@ Local storage is an object that is retained even if the browser is reloaded. We 
 **Set value**
 
 ```js
-localStorage.name = 'Taylor';
+localStorage.name = 'Rome';
 ```
 
 **Get value**

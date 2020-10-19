@@ -102,7 +102,7 @@ print(my_class)
 5. Delete the first name on the list
 6. Move the last name on the list to be the second name
 
-Answers \`\`\`python \# 1. Declare a list with the names of your classmates classmates = \["James", "Tamis", "Parker", "Nhu", "Brad", "Q", "Kelly", "Paulo", "Doug"\] \# 2. Print out the length of that list print\(len\(classmates\)\) \# 3. Add a new classmate classmates.append\("Taylor"\) print\(classmates\) \# 4. Print the 3rd name on the list print\(classmates\[2\]\) \# 5. Delete the first name on the list print\(classmates.pop\(0\)\) \# 6. Move the last name on the list to be the second name classmates.insert\(1, classmates.pop\(\)\) print\(classmates\) \`\`\`
+Answers \`\`\`python \# 1. Declare a list with the names of your classmates classmates = \["James", "Tamis", "Parker", "Nhu", "Brad", "Q", "Kelly", "Paulo", "Doug"\] \# 2. Print out the length of that list print\(len\(classmates\)\) \# 3. Add a new classmate classmates.append\("Rome"\) print\(classmates\) \# 4. Print the 3rd name on the list print\(classmates\[2\]\) \# 5. Delete the first name on the list print\(classmates.pop\(0\)\) \# 6. Move the last name on the list to be the second name classmates.insert\(1, classmates.pop\(\)\) print\(classmates\) \`\`\`
 
 ### Numerical List Operations
 
