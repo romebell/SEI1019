@@ -3,7 +3,7 @@
 * [Introduction](readme.md)
 * [About These Notes](readme%20%281%29.md)
 * [Syllabus](syllabus.md)
-* [Schedule](calendar.md)
+<!-- * [Schedule](calendar.md) -->
 * [Development Workflow](01-workflow/README.md)
   * [Command Line](01-workflow/01readme/README.md)
     * [The Terminal](01-workflow/01readme/02intro-terminal.md)
