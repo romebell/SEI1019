@@ -7,6 +7,13 @@
 | (3) Full-Stack Web Development | Python/Flask | 4 - 6 | Data Structures & Algorithms, Whiteboarding, Python fundamentals |
 | (4) Front-End Framework | React/Redux/Mongo \(MERN\) | 10 - 12 | JWT Token Auth, MongoDB |
 
+# Schedule
+
+[SEI 1019 Calendar](https://calendar.google.com/calendar/embed?src=c_hnrnbep841r64abju6m7bfvnv0%40group.calendar.google.com&ctz=America%2FLos_Angeles)*
+
+
+`Important Disclaimer`: This schedule is a guideline and serves as an estimate for what your instructional staff would like to accomplish. This calendar is not set in stone and is subject to change at any time for reasons such as snow days, staff illness, special events, and individual class pacing.
+
 # Unit 1
 
 ## `Week 1`
