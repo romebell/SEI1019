@@ -13,7 +13,7 @@ Objects in JavaScript can even hold functions. When a function is a member of an
 The most common way of creating an object is called **object literal syntax**. We bound the object in curly braces `{ }` and literally type our keys and values into them separated by commas:
 
 ```javascript
-const friend = {firstName: "Jane", lastName: "Doe"}
+const friend = { firstName: "Jane", lastName: "Doe" }
 ```
 
 **Note:** We still use camelCase for the keys in an object.
