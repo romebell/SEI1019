@@ -152,7 +152,7 @@ console.log(objNames);
 
 **Challenge: Modify `splitName` to account for the possibility of a middle name that will store as a `middleName` property.**
 ```js
-var names = ["tim toby thompson", "ilias iliad", "elie ellison", "markus mary mourning"];
+const names = ["tim toby thompson", "ilias iliad", "elie ellison", "markus mary mourning"];
 
 function splitName(fullName) {
   let nameArr = fullName.split(" ")
