@@ -158,7 +158,7 @@ What if I want to do something to both divs at once?
 theSquares.style.border = "2px dashed black";
 
 // but this will
-for(var i = 0; i<theSquares.length; i++) {
+for(let i = 0; i<theSquares.length; i++) {
   theSquares[i].style.border = "dashed 2px black";
 }
 ```
