@@ -35,8 +35,8 @@ function alarm() {
 	console.log("Wake up!");
 }
 
-var firstAlarm = setTimeout(alarm, 3000);
-var secondAlarm = setTimeout(alarm, 6000);
+let firstAlarm = setTimeout(alarm, 3000);
+let secondAlarm = setTimeout(alarm, 6000);
 
 ```
 
