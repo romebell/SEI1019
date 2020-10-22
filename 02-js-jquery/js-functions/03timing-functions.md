@@ -73,13 +73,12 @@ function alarmRing() {
 }
 
 function turnOffSnooze() {
-	console.log("turning snooze off now");
+	console.log("Turning snooze off now");
 	clearTimeout(snoozeAlarm);
 }
 
-let snoozeAlarm = setTimeout(alarmRing, 5000);
-
-let snoozeOff = setTimeout(turnOffSnooze, 3000);
+let snoozeAlarm = setTimeout(alarmRing, 3000);
+let snoozeOff = setTimeout(turnOffSnooze, 5000);
 ```
 
 ### Exercises:
