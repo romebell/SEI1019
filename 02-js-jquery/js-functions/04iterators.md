@@ -37,16 +37,16 @@ Take the body from your `for` loop, wrap it in a function, and pass that as the 
 ### Examples:
 
 ```js
-var friends = ["Markus", "Tim", "Ilias", "Elie"];
+const friends = ["Markus", "Tim", "Ilias", "Elie"];
 
 // old way, with a for loop
-for (var i = 0; i < friends.length; i++) {
+for (let i = 0; i < friends.length; i++) {
   console.log("Hello, " + friends[i] + "!");
 }
 
 // cool new way, with the .forEach iterator
 friends.forEach(function (buddy) {
-  console.log("Hello, " + buddy + "!");
+  console.log(`Hello, ${buddy}!`);
 });
 
 // both output the same thing
@@ -62,7 +62,7 @@ Use the `.forEach` iterator to loop over the following
 array of foods and say you like them.
 
 ```js
-var foods = ["pizza", "tacos", "ice cream"];
+const foods = ["pizza", "tacos", "ice cream"];
 
 // your code here
 
@@ -78,10 +78,10 @@ Use the `.forEach` iterator to loop over the following
 array of objects and say how delicious each one is.
 
 ```js
-var foods = [
-  {name: "Pizza", level: "very"},
-  {name: "Tacos", level: "mostly"},
-  {name: "Cottage Cheese", level: "not very"}
+const foods = [
+  { name: "Pizza", level: "very" },
+  { name: "Tacos", level: "mostly" },
+  { name: "Cottage Cheese", level: "not very" }
 ];
 
 // your code here
@@ -108,17 +108,17 @@ Like `forEach`, map will one-by-one pass the values from the array into your cal
 **Create a new array where all the values from the old array are capitalized.**
 
 ```js
-var names = ["tim thompson", "ilias iliad", "elie ellison", "markus mourning"];
+const names = ["tim thompson", "ilias iliad", "elie ellison", "markus mourning"];
 
 // old way with for loop
-var cased = [];
-for (var i = 0; i < names.length; i++) {
+const cased = [];
+for (let i = 0; i < names.length; i++) {
   cased.push(names[i].toUpperCase());
 }
 console.log(cased);
 
 // new way with `map`
-var cased = names.map(function (person) {
+const cased = names.map(function (person) {
   return person.toUpperCase();
 });
 console.log(cased);
@@ -130,7 +130,7 @@ console.log(cased);
 
 **Use `map` to create an array of objects with a `firstName` property and a `lastName` property**
 ```js
-var names = ["tim thompson", "ilias iliad", "elie ellison", "markus mourning"];
+const names = ["tim thompson", "ilias iliad", "elie ellison", "markus mourning"];
 
 function splitName(fullName) {
   return {
@@ -139,7 +139,7 @@ function splitName(fullName) {
   }
 }
 
-var objNames = names.map(splitName);
+const objNames = names.map(splitName);
 
 console.log(objNames);
 
@@ -155,9 +155,10 @@ console.log(objNames);
 var names = ["tim toby thompson", "ilias iliad", "elie ellison", "markus mary mourning"];
 
 function splitName(fullName) {
-  var nameArr = fullName.split(" ")
-  var nameObj = {firstName: nameArr[0]};
-  if(nameArr.length===3) {
+  let nameArr = fullName.split(" ")
+  let nameObj = { firstName: nameArr[0] };
+
+  if(nameArr.length === 3) {
     nameObj.middleName = nameArr[1];
     nameObj.lastName = nameArr[2];
   } else {
@@ -166,7 +167,7 @@ function splitName(fullName) {
   return nameObj;
 }
 
-var objNames = names.map(splitName);
+const objNames = names.map(splitName);
 
 // Should output
 // > [ { firstName: 'tim', middleName: 'toby', lastName: 'thompson' },
@@ -178,9 +179,9 @@ var objNames = names.map(splitName);
 
 **Use `map` to create a new array `strNums` that holds the same values as `intNums` but as strings instead of integers**
 ```js
-var intNums = [0, 1, 2, 3, 4, 5]
+const intNums = [0, 1, 2, 3, 4, 5]
 
-var strNums = intNums.map(function(elem){
+const strNums = intNums.map(function(elem){
   return elem.toString();
   });
 
@@ -204,17 +205,17 @@ Your callback must return a boolean. `filter` will one-by-one pass the values fr
 **Use `filter` to get 2 new arrays - one that contains names of even length only and one that contains names of odd length only**
 
 ```js
-var names = ["tim", "ilias", "elie", "markus"];
+const names = ["tim", "ilias", "elie", "markus"];
 
-var isEven = function (name) {
+const isEven = function (name) {
   return name.length % 2 === 0;
 };
-var isOdd = function (name) {
+const isOdd = function (name) {
   return name.length % 2 !== 0;
 };
 
-var evenLengthNames = names.filter(isEven);
-var oddLengthNames = names.filter(isOdd);
+const evenLengthNames = names.filter(isEven);
+const oddLengthNames = names.filter(isOdd);
 
 console.log(evenLengthNames);
 console.log(oddLengthNames);
@@ -227,10 +228,17 @@ console.log(oddLengthNames);
 **Use `filter` to return an array of dogs.**
 
 ```js
-var pets = [ {name: "fluffy", age: 2, type: "cat"}, {name: "fido", age: 1, type: "dog"}, {name: "nelly", age: 64, type: "parrot"}, {name: "benedict", age: 1, type: "sea cucumber"}, {name: "spot", age: 10, type: "dog"}, {name: "magic", age: 9, type: "cat"}]
+const pets = [ 
+  {name: "fluffy", age: 2, type: "cat"}, 
+  {name: "fido", age: 1, type: "dog"}, 
+  {name: "nelly", age: 64, type: "parrot"}, 
+  {name: "benedict", age: 1, type: "sea cucumber"}, 
+  {name: "spot", age: 10, type: "dog"}, 
+  {name: "magic", age: 9, type: "cat"}
+];
 
-var dogs = pets.filter(function(pet){
-    return pet.type==="dog";
+const dogs = pets.filter(function(pet){
+    return pet.type === "dog";
 })
 
 console.log(dogs);
@@ -252,12 +260,12 @@ By default, `total` will start out as the 0th element in the array and `new` wil
 **Example**
 
 ```js
-var nums = [1,2,3,4];
-var add = function (total, new) {
+const nums = [1, 2, 3, 4];
+const add = function (total, new) {
   return total + new;
 };
 
-var sum = nums.reduce(add);
+const sum = nums.reduce(add);
 console.log(sum);
 
 // Should output:
@@ -270,12 +278,12 @@ console.log(sum);
 If you want to start with a different `total` than 0th element, you can pass a second argument into `filter`, and it will start by passing _this_ value in as `total`, and the 0th element as `new`.
 
 ```js
-var nums = [1,2,3,4];
-var add = function (total, new) {
+const nums = [1, 2, 3, 4];
+const add = function (total, new) {
   return total + new;
 };
 
-var sum = nums.reduce(add, 10);
+const sum = nums.reduce(add, 10);
 console.log(sum);
 
 // Should output:
