@@ -23,7 +23,7 @@ function formalGreeting(informalGreeting) {
 	console.log("How are you?");
 }
 
-formalGreeting(greeting)
+formalGreeting(greeting);
 ```
 
 When we pass a function into another function as a paramenter, we are passing the _function definition_, so it can be called at a later time (hence the name _callback_). Notice the different outputs in the below example. First we print the function itself, then we _call_ the function and print the output.
@@ -34,10 +34,9 @@ function returnRandom() {
 }
 
 function yellRandom(randomNumGenerator) {
-	console.log("GENERATOR DEFINITION: ", randomNumGenerator)
-	console.log("YOUR RANDOM NUMBER IS: "+randomNumGenerator());
+	console.log("GENERATOR DEFINITION: ", randomNumGenerator);
+	console.log("YOUR RANDOM NUMBER IS: " + randomNumGenerator());
 }
 
-yellRandom(returnRandom)
+yellRandom(returnRandom);
 ```
-
