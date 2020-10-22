@@ -102,4 +102,4 @@ let snoozeOff = setTimeout(turnOffSnooze, 3000);
 Blast off!
 ``` 
 
-***2.*** How could you mimic the `setInterval` functionality using `setTimeout`? Use `setTimeout` to recreate the `var kids = setInterval(annoy, 1000);` functionality.
+***2.*** How could you mimic the `setInterval` functionality using `setTimeout`? Use `setTimeout` to recreate the `let kids = setInterval(annoy, 1000);` functionality.
