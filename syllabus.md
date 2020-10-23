@@ -28,15 +28,7 @@
 |  |  |  | Lesson | Git | [link](https://romebell.gitbook.io/sei-1019/development-workflow/intro-git)  |
 |  |  |  | Lesson | Git Config Instructions | [link](https://github.com/TaylorDarneille/SEI713/blob/master/00-config-deployment/installfest/osx/readme.md#git) |
 |  |  |  | Deliverable | Command Line Murder Mystery | [link](https://github.com/SEI-ATL/command-line-murder-mystery) |
-| 10/20/2020  | 2 | Tuesday | Lesson | HTML Review | [link](https://romebell.gitbook.io/sei-1019/html-css/html-review)   |
-|  |  |  | Lesson | CSS Selectors | [link](https://romebell.gitbook.io/sei-1019/html-css/css-selectors)   |
-|  |  |  | Lesson | CSS Diner | [link](https://flukeout.github.io/)   |
-|  |  |  |  | CSS Box Model | [link](https://romebell.gitbook.io/sei-1019/html-css/00readme/01box-model)   |
-|  |  |  |  | CSS Display & Positioning* | [Lecture](https://romebell.gitbook.io/sei-1019/html-css/00readme/02display-positioning), [Exercise](https://github.com/SEI-ATL/css-positioning)   |
-|  |  |  |  | CSS Flexbox | [link](https://romebell.gitbook.io/sei-1019/html-css/00readme/06flexbox) |
-|  |  |  |  | Flexbox Froggy | [Flexbox Froggy](http://flexboxfroggy.com) |
-|  |  |  |  | CSS Grid | [link](https://romebell.gitbook.io/sei-1019/html-css/00readme/07grid) |
-|  |  |  | Deliverable | Airbnb Mockup | [link](https://github.com/SEI-ATL/css-airbnb)   |
+
 | 10/21/2020 | 3 | Wednesday | Lesson | HTML Review | [link](https://romebell.gitbook.io/sei-1019/html-css/html-review)   |
 |  |  |  | Lesson | CSS Selectors | [link](https://romebell.gitbook.io/sei-1019/html-css/css-selectors)   |
 |  |  |  | Lesson | CSS Diner | [link](https://flukeout.github.io/)   |
@@ -72,17 +64,21 @@
 |  |  |  | Lesson | Git | [link](https://romebell.gitbook.io/sei-1019/development-workflow/intro-git)  |
 |  |  |  | Lesson | Git Config Instructions | [link](https://github.com/TaylorDarneille/SEI713/blob/master/00-config-deployment/installfest/osx/readme.md#git) |
 |  |  |  | Deliverable | Command Line Murder Mystery | [link](https://github.com/SEI-ATL/command-line-murder-mystery) |
-| 10/19/2020 | 2 | Tuesday | Lesson | Install Fest | [link]() |
-|  |  |  | Lesson | Command Line | [link]() |
-|  |  |  | Lesson | Git | [link]()  |
-|  |  |  | Lesson | Git Config Instructions | [link]() |
-|  |  |  | Deliverable | Command Line Murder Mystery | [link]() |
-| 10/19/2020 | 3 | Wednesday | Lesson | Install Fest | [link]() |
-|  |  |  | Lesson | Command Line | [link]() |
-|  |  |  | Lesson | Git | [link]()  |
-|  |  |  | Lesson | Git Config Instructions | [link]() |
-|  |  |  | Deliverable | Command Line Murder Mystery | [link]() |
-| 10/22/2020 | 4 | Thursday | Lesson | Callbacks | [link](https://romebell.gitbook.io/sei-1019/javascript/01functions/02callbacks)   |
+| 10/20/2020  | 1 | Tuesday | Lesson | HTML Review | [link](https://romebell.gitbook.io/sei-1019/html-css/html-review)   |
+|  |  |  | Lesson | CSS Selectors | [link](https://romebell.gitbook.io/sei-1019/html-css/css-selectors)   |
+|  |  |  | Lesson | CSS Diner | [link](https://flukeout.github.io/)   |
+|  |  |  |  | CSS Box Model | [link](https://romebell.gitbook.io/sei-1019/html-css/00readme/01box-model)   |
+|  |  |  |  | CSS Display & Positioning* | [Lecture](https://romebell.gitbook.io/sei-1019/html-css/00readme/02display-positioning), [Exercise](https://github.com/SEI-ATL/css-positioning)   |
+|  |  |  |  | CSS Flexbox | [link](https://romebell.gitbook.io/sei-1019/html-css/00readme/06flexbox) |
+|  |  |  |  | Flexbox Froggy | [Flexbox Froggy](http://flexboxfroggy.com) |
+|  |  |  |  | CSS Grid | [link](https://romebell.gitbook.io/sei-1019/html-css/00readme/07grid) |
+|  |  |  | Deliverable | Airbnb Mockup | [link](https://github.com/SEI-ATL/css-airbnb)   |
+| 10/19/2020 | 1 | Wednesday | Lesson | Install Fest | [link]() |
+|  |  |  | Lesson | <lesson> | [link]() |
+|  |  |  | Lesson | <lesson> | [link]()  |
+|  |  |  | Lesson | <lesson> | [link]() |
+|  |  |  | Deliverable | <lesson> | [link]() |
+| 10/22/2020 | 1 | Thursday | Lesson | Callbacks | [link](https://romebell.gitbook.io/sei-1019/javascript/01functions/02callbacks)   |
 |  |  |  | Lesson | Timing Functions | [link](https://romebell.gitbook.io/sei-1019/javascript/01functions/03timing-functions)   |
 |  |  |  |  | Iterators | [link](https://romebell.gitbook.io/sei-1019/javascript/01functions/04iterators)   |
 |  |  |  |  | JS Callbacks, Iterators| [Lecture](https://github.com/SEI-ATL/js-callbacks-iterators)  |
@@ -96,145 +92,370 @@
 |  |  |  | Lesson | Git Config Instructions | [link]() |
 |  |  |  | Deliverable | Command Line Murder Mystery | [link]() |
 
-| Date | Week | Day | Type | Topic | Link | 
-| --- | ---| --- | --- | --- | --- | --- |
-| 10/19/2020 | 3 | Monday | Lesson | Install Fest | [link]() |
-|  |  |  | Lesson | Command Line | [link]() |
-|  |  |  | Lesson | Git | [link]()  |
-|  |  |  | Lesson | Git Config Instructions | [link]() |
-|  |  |  | Deliverable | Command Line Murder Mystery | [link]() |
-| 10/19/2020 | 3 | Tuesday | Lesson | Install Fest | [link]() |
-|  |  |  | Lesson | Command Line | [link]() |
-|  |  |  | Lesson | Git | [link]()  |
-|  |  |  | Lesson | Git Config Instructions | [link]() |
-|  |  |  | Deliverable | Command Line Murder Mystery | [link]() |
-| 10/19/2020 | 3 | Wednesday | Lesson | Install Fest | [link]() |
-|  |  |  | Lesson | Command Line | [link]() |
-|  |  |  | Lesson | Git | [link]()  |
-|  |  |  | Lesson | Git Config Instructions | [link]() |
-|  |  |  | Deliverable | Command Line Murder Mystery | [link]() |
-| 10/19/2020 | 3 | Thursday | Lesson | Install Fest | [link]() |
-|  |  |  | Lesson | Command Line | [link]() |
-|  |  |  | Lesson | Git | [link]()  |
-|  |  |  | Lesson | Git Config Instructions | [link]() |
-|  |  |  | Deliverable | Command Line Murder Mystery | [link]() |
-| 10/19/2020 | 3 | Friday | Lesson | Install Fest | [link]() |
-|  |  |  | Lesson | Command Line | [link]() |
-|  |  |  | Lesson | Git | [link]()  |
-|  |  |  | Lesson | Git Config Instructions | [link]() |
-|  |  |  | Deliverable | Command Line Murder Mystery | [link]() |
+| No. | Date | Week | Day | Type | Topic | Link |
+| --- | ---| --- | --- | --- | --- | --- | --- |
+| 1 | 10/19/2020 | 3 | Monday | Lesson | LESSON | [link]() |
+| |  |  |  | Lesson | LESSON | [link]() |
+| |  |  |  | Lesson | LESSON | [link]()  |
+| |  |  |  | Lesson | LESSON | [link]() |
+| |  |  |  | Deliverable | LESSON | [link]() |
+| 2 | 10/19/2020 | 3 | Tuesday | Lesson | LESSON | [link]() |
+| |  |  |  | Lesson | LESSON | [link]() |
+| |  |  |  | Lesson | LESSON | [link]()  |
+| |  |  |  | Lesson | LESSON | [link]() |
+| |  |  |  | Deliverable | LESSON | [link]() |
+| 3 | 10/19/2020 | 3 | Wednesday | Lesson | LESSON | [link]() |
+| |  |  |  | Lesson | LESSON | [link]() |
+| |  |  |  | Lesson | LESSON | [link]()  |
+| |  |  |  | Lesson | LESSON | [link]() |
+| |  |  |  | Deliverable | LESSON | [link]() |
+| 4 | 10/19/2020 | 3 | Thursday | Lesson | LESSON | [link]() |
+| |  |  |  | Lesson | LESSON | [link]() |
+| |  |  |  | Lesson | LESSON | [link]()  |
+| |  |  |  | Lesson | LESSON | [link]() |
+| |  |  |  | Deliverable | LESSON | [link]() |
+| 5 | 10/19/2020 | 3 | Friday | Lesson | LESSON | [link]() |
+| |  |  |  | Lesson | LESSON | [link]() |
+| |  |  |  | Lesson | LESSON | [link]()  |
+| |  |  |  | Lesson | LESSON | [link]() |
+| |  |  |  | Deliverable | LESSON | [link]() |
 
 | Date | Week | Day | Type | Topic | Link | 
 | --- | ---| --- | --- | --- | --- | --- |
-| 10/19/2020 | 3 | Monday | Lesson | Install Fest | [link]() |
-|  |  |  | Lesson | Command Line | [link]() |
-|  |  |  | Lesson | Git | [link]()  |
-|  |  |  | Lesson | Git Config Instructions | [link]() |
-|  |  |  | Deliverable | Command Line Murder Mystery | [link]() |
-| 10/19/2020 | 3 | Tuesday | Lesson | Install Fest | [link]() |
-|  |  |  | Lesson | Command Line | [link]() |
-|  |  |  | Lesson | Git | [link]()  |
-|  |  |  | Lesson | Git Config Instructions | [link]() |
-|  |  |  | Deliverable | Command Line Murder Mystery | [link]() |
-| 10/19/2020 | 3 | Wednesday | Lesson | Install Fest | [link]() |
-|  |  |  | Lesson | Command Line | [link]() |
-|  |  |  | Lesson | Git | [link]()  |
-|  |  |  | Lesson | Git Config Instructions | [link]() |
-|  |  |  | Deliverable | Command Line Murder Mystery | [link]() |
-| 10/19/2020 | 3 | Thursday | Lesson | Install Fest | [link]() |
-|  |  |  | Lesson | Command Line | [link]() |
-|  |  |  | Lesson | Git | [link]()  |
-|  |  |  | Lesson | Git Config Instructions | [link]() |
-|  |  |  | Deliverable | Command Line Murder Mystery | [link]() |
-| 10/19/2020 | 3 | Friday | Lesson | Install Fest | [link]() |
-|  |  |  | Lesson | Command Line | [link]() |
-|  |  |  | Lesson | Git | [link]()  |
-|  |  |  | Lesson | Git Config Instructions | [link]() |
-|  |  |  | Deliverable | Command Line Murder Mystery | [link]() |
+| 10/19/2020 | 3 | Monday | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]()  |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Deliverable | LESSON | [link]() |
+| 10/19/2020 | 3 | Tuesday | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]()  |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Deliverable | LESSON | [link]() |
+| 10/19/2020 | 3 | Wednesday | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]()  |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Deliverable | LESSON | [link]() |
+| 10/19/2020 | 3 | Thursday | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]()  |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Deliverable | LESSON | [link]() |
+| 10/19/2020 | 3 | Friday | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]()  |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Deliverable | LESSON | [link]() |
 
 | Date | Week | Day | Type | Topic | Link | 
 | --- | ---| --- | --- | --- | --- | --- |
-| 10/19/2020 | 3 | Monday | Lesson | Install Fest | [link]() |
-|  |  |  | Lesson | Command Line | [link]() |
-|  |  |  | Lesson | Git | [link]()  |
-|  |  |  | Lesson | Git Config Instructions | [link]() |
-|  |  |  | Deliverable | Command Line Murder Mystery | [link]() |
-| 10/19/2020 | 3 | Tuesday | Lesson | Install Fest | [link]() |
-|  |  |  | Lesson | Command Line | [link]() |
-|  |  |  | Lesson | Git | [link]()  |
-|  |  |  | Lesson | Git Config Instructions | [link]() |
-|  |  |  | Deliverable | Command Line Murder Mystery | [link]() |
-| 10/19/2020 | 3 | Wednesday | Lesson | Install Fest | [link]() |
-|  |  |  | Lesson | Command Line | [link]() |
-|  |  |  | Lesson | Git | [link]()  |
-|  |  |  | Lesson | Git Config Instructions | [link]() |
-|  |  |  | Deliverable | Command Line Murder Mystery | [link]() |
-| 10/19/2020 | 3 | Thursday | Lesson | Install Fest | [link]() |
-|  |  |  | Lesson | Command Line | [link]() |
-|  |  |  | Lesson | Git | [link]()  |
-|  |  |  | Lesson | Git Config Instructions | [link]() |
-|  |  |  | Deliverable | Command Line Murder Mystery | [link]() |
-| 10/19/2020 | 3 | Friday | Lesson | Install Fest | [link]() |
-|  |  |  | Lesson | Command Line | [link]() |
-|  |  |  | Lesson | Git | [link]()  |
-|  |  |  | Lesson | Git Config Instructions | [link]() |
-|  |  |  | Deliverable | Command Line Murder Mystery | [link]() |
+| 10/19/2020 | 3 | Monday | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]()  |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Deliverable | LESSON | [link]() |
+| 10/19/2020 | 3 | Tuesday | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]()  |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Deliverable | LESSON | [link]() |
+| 10/19/2020 | 3 | Wednesday | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]()  |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Deliverable | LESSON | [link]() |
+| 10/19/2020 | 3 | Thursday | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]()  |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Deliverable | LESSON | [link]() |
+| 10/19/2020 | 3 | Friday | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]()  |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Deliverable | LESSON | [link]() |
 
 | Date | Week | Day | Type | Topic | Link | 
 | --- | ---| --- | --- | --- | --- | --- |
-| 10/19/2020 | 3 | Monday | Lesson | Install Fest | [link]() |
-|  |  |  | Lesson | Command Line | [link]() |
-|  |  |  | Lesson | Git | [link]()  |
-|  |  |  | Lesson | Git Config Instructions | [link]() |
-|  |  |  | Deliverable | Command Line Murder Mystery | [link]() |
-| 10/19/2020 | 3 | Tuesday | Lesson | Install Fest | [link]() |
-|  |  |  | Lesson | Command Line | [link]() |
-|  |  |  | Lesson | Git | [link]()  |
-|  |  |  | Lesson | Git Config Instructions | [link]() |
-|  |  |  | Deliverable | Command Line Murder Mystery | [link]() |
-| 10/19/2020 | 3 | Wednesday | Lesson | Install Fest | [link]() |
-|  |  |  | Lesson | Command Line | [link]() |
-|  |  |  | Lesson | Git | [link]()  |
-|  |  |  | Lesson | Git Config Instructions | [link]() |
-|  |  |  | Deliverable | Command Line Murder Mystery | [link]() |
-| 10/19/2020 | 3 | Thursday | Lesson | Install Fest | [link]() |
-|  |  |  | Lesson | Command Line | [link]() |
-|  |  |  | Lesson | Git | [link]()  |
-|  |  |  | Lesson | Git Config Instructions | [link]() |
-|  |  |  | Deliverable | Command Line Murder Mystery | [link]() |
-| 10/19/2020 | 3 | Friday | Lesson | Install Fest | [link]() |
-|  |  |  | Lesson | Command Line | [link]() |
-|  |  |  | Lesson | Git | [link]()  |
-|  |  |  | Lesson | Git Config Instructions | [link]() |
-|  |  |  | Deliverable | Command Line Murder Mystery | [link]() |
+| 10/19/2020 | 3 | Monday | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]()  |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Deliverable | LESSON | [link]() |
+| 10/19/2020 | 3 | Tuesday | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]()  |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Deliverable | LESSON | [link]() |
+| 10/19/2020 | 3 | Wednesday | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]()  |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Deliverable | LESSON | [link]() |
+| 10/19/2020 | 3 | Thursday | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]()  |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Deliverable | LESSON | [link]() |
+| 10/19/2020 | 3 | Friday | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]()  |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Deliverable | LESSON | [link]() |
 
 | Date | Week | Day | Type | Topic | Link | 
 | --- | ---| --- | --- | --- | --- | --- |
-| 10/19/2020 | 3 | Monday | Lesson | Install Fest | [link]() |
-|  |  |  | Lesson | Command Line | [link]() |
-|  |  |  | Lesson | Git | [link]()  |
-|  |  |  | Lesson | Git Config Instructions | [link]() |
-|  |  |  | Deliverable | Command Line Murder Mystery | [link]() |
-| 10/19/2020 | 3 | Tuesday | Lesson | Install Fest | [link]() |
-|  |  |  | Lesson | Command Line | [link]() |
-|  |  |  | Lesson | Git | [link]()  |
-|  |  |  | Lesson | Git Config Instructions | [link]() |
-|  |  |  | Deliverable | Command Line Murder Mystery | [link]() |
-| 10/19/2020 | 3 | Wednesday | Lesson | Install Fest | [link]() |
-|  |  |  | Lesson | Command Line | [link]() |
-|  |  |  | Lesson | Git | [link]()  |
-|  |  |  | Lesson | Git Config Instructions | [link]() |
-|  |  |  | Deliverable | Command Line Murder Mystery | [link]() |
-| 10/19/2020 | 3 | Thursday | Lesson | Install Fest | [link]() |
-|  |  |  | Lesson | Command Line | [link]() |
-|  |  |  | Lesson | Git | [link]()  |
-|  |  |  | Lesson | Git Config Instructions | [link]() |
-|  |  |  | Deliverable | Command Line Murder Mystery | [link]() |
-| 10/19/2020 | 3 | Friday | Lesson | Install Fest | [link]() |
-|  |  |  | Lesson | Command Line | [link]() |
-|  |  |  | Lesson | Git | [link]()  |
-|  |  |  | Lesson | Git Config Instructions | [link]() |
-|  |  |  | Deliverable | Command Line Murder Mystery | [link]() |
+| 10/19/2020 | 3 | Monday | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]()  |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Deliverable | LESSON | [link]() |
+| 10/19/2020 | 3 | Tuesday | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]()  |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Deliverable | LESSON | [link]() |
+| 10/19/2020 | 3 | Wednesday | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]()  |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Deliverable | LESSON | [link]() |
+| 10/19/2020 | 3 | Thursday | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]()  |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Deliverable | LESSON | [link]() |
+| 10/19/2020 | 3 | Friday | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]()  |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Deliverable | LESSON | [link]() |
+
+| Date | Week | Day | Type | Topic | Link | 
+| --- | ---| --- | --- | --- | --- | --- |
+| 10/19/2020 | 3 | Monday | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]()  |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Deliverable | LESSON | [link]() |
+| 10/19/2020 | 3 | Tuesday | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]()  |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Deliverable | LESSON | [link]() |
+| 10/19/2020 | 3 | Wednesday | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]()  |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Deliverable | LESSON | [link]() |
+| 10/19/2020 | 3 | Thursday | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]()  |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Deliverable | LESSON | [link]() |
+| 10/19/2020 | 3 | Friday | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]()  |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Deliverable | LESSON | [link]() |
+
+| Date | Week | Day | Type | Topic | Link | 
+| --- | ---| --- | --- | --- | --- | --- |
+| 10/19/2020 | 3 | Monday | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]()  |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Deliverable | LESSON | [link]() |
+| 10/19/2020 | 3 | Tuesday | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]()  |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Deliverable | LESSON | [link]() |
+| 10/19/2020 | 3 | Wednesday | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]()  |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Deliverable | LESSON | [link]() |
+| 10/19/2020 | 3 | Thursday | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]()  |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Deliverable | LESSON | [link]() |
+| 10/19/2020 | 3 | Friday | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]()  |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Deliverable | LESSON | [link]() |
+
+| Date | Week | Day | Type | Topic | Link | 
+| --- | ---| --- | --- | --- | --- | --- |
+| 10/19/2020 | 3 | Monday | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]()  |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Deliverable | LESSON | [link]() |
+| 10/19/2020 | 3 | Tuesday | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]()  |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Deliverable | LESSON | [link]() |
+| 10/19/2020 | 3 | Wednesday | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]()  |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Deliverable | LESSON | [link]() |
+| 10/19/2020 | 3 | Thursday | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]()  |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Deliverable | LESSON | [link]() |
+| 10/19/2020 | 3 | Friday | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]()  |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Deliverable | LESSON | [link]() |
+
+| Date | Week | Day | Type | Topic | Link | 
+| --- | ---| --- | --- | --- | --- | --- |
+| 10/19/2020 | 3 | Monday | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]()  |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Deliverable | LESSON | [link]() |
+| 10/19/2020 | 3 | Tuesday | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]()  |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Deliverable | LESSON | [link]() |
+| 10/19/2020 | 3 | Wednesday | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]()  |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Deliverable | LESSON | [link]() |
+| 10/19/2020 | 3 | Thursday | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]()  |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Deliverable | LESSON | [link]() |
+| 10/19/2020 | 3 | Friday | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]()  |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Deliverable | LESSON | [link]() |
+
+| Date | Week | Day | Type | Topic | Link | 
+| --- | ---| --- | --- | --- | --- | --- |
+| 10/19/2020 | 3 | Monday | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]()  |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Deliverable | LESSON | [link]() |
+| 10/19/2020 | 3 | Tuesday | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]()  |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Deliverable | LESSON | [link]() |
+| 10/19/2020 | 3 | Wednesday | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]()  |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Deliverable | LESSON | [link]() |
+| 10/19/2020 | 3 | Thursday | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]()  |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Deliverable | LESSON | [link]() |
+| 10/19/2020 | 3 | Friday | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]()  |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Deliverable | LESSON | [link]() |
+
+| Date | Week | Day | Type | Topic | Link | 
+| --- | ---| --- | --- | --- | --- | --- |
+| 10/19/2020 | 3 | Monday | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]()  |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Deliverable | LESSON | [link]() |
+| 10/19/2020 | 3 | Tuesday | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]()  |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Deliverable | LESSON | [link]() |
+| 10/19/2020 | 3 | Wednesday | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]()  |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Deliverable | LESSON | [link]() |
+| 10/19/2020 | 3 | Thursday | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]()  |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Deliverable | LESSON | [link]() |
+| 10/19/2020 | 3 | Friday | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]()  |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Deliverable | LESSON | [link]() |
+
+| Date | Week | Day | Type | Topic | Link | 
+| --- | ---| --- | --- | --- | --- | --- |
+| 10/19/2020 | 3 | Monday | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]()  |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Deliverable | LESSON | [link]() |
+| 10/19/2020 | 3 | Tuesday | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]()  |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Deliverable | LESSON | [link]() |
+| 10/19/2020 | 3 | Wednesday | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]()  |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Deliverable | LESSON | [link]() |
+| 10/19/2020 | 3 | Thursday | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]()  |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Deliverable | LESSON | [link]() |
+| 10/19/2020 | 3 | Friday | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]()  |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Deliverable | LESSON | [link]() |
+
+| Date | Week | Day | Type | Topic | Link | 
+| --- | ---| --- | --- | --- | --- | --- |
+| 10/19/2020 | 3 | Monday | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]()  |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Deliverable | LESSON | [link]() |
+| 10/19/2020 | 3 | Tuesday | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]()  |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Deliverable | LESSON | [link]() |
+| 10/19/2020 | 3 | Wednesday | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]()  |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Deliverable | LESSON | [link]() |
+| 10/19/2020 | 3 | Thursday | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]()  |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Deliverable | LESSON | [link]() |
+| 10/19/2020 | 3 | Friday | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Lesson | LESSON | [link]()  |
+|  |  |  | Lesson | LESSON | [link]() |
+|  |  |  | Deliverable | LESSON | [link]() |
+
 
 
 | Date | Week | Day | Type | Topic | Link | 
