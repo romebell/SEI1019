@@ -31,7 +31,7 @@
 |  | |  |  | Lesson | CSS Grid | [link](https://romebell.gitbook.io/sei-1019/html-css/00readme/07grid) |
 |  | |  |  | Lab | Grid Garden Grid | [link](http://cssgridgarden.com) |
 |  | |  |  | Deliverable | Airbnb Mockup | [link](https://github.com/SEI-ATL/css-airbnb)   |
-| 2 | 10/21/2020 | 1 | Wednesday | Lesson | JS Primitives | [link](https://romebell.gitbook.io/sei-1019/javascript/js-primitives) |
+| 3 | 10/21/2020 | 1 | Wednesday | Lesson | JS Primitives | [link](https://romebell.gitbook.io/sei-1019/javascript/js-primitives) |
 | |  |  |  | Lesson | JS Arrays  | [link](https://romebell.gitbook.io/sei-1019/javascript/js-arrays)  |
 | |  |  |  | Lesson | JS Arrays  | [link](https://romebell.gitbook.io/sei-1019/javascript/js-arrays)  |
 | |  |  |  | Lesson | JS Boolean Expressions | [link](https://romebell.gitbook.io/sei-1019/javascript/js-control-flow/02boolean) |
@@ -40,7 +40,7 @@
 | |  |  |  | Lesson/Lab | JS Loops | [Lecture](https://romebell.gitbook.io/sei-1019/javascript/js-objects), [Lab](https://github.com/SEI-ATL/js-basic-loops) |
 | |  |  |  | Lesson | JS Functions | [link](https://romebell.gitbook.io/sei-1019/javascript/js-objects) |
 | |  |  |  | Deliverable | Functions | [link](https://github.com/SEI-ATL/functions-deliverable) |
-| 3 | 10/22/2020 | 1 | Thursday | Lesson | Callbacks | [link](https://romebell.gitbook.io/sei-1019/javascript/01functions/02callbacks) |
+| 4 | 10/22/2020 | 1 | Thursday | Lesson | Callbacks | [link](https://romebell.gitbook.io/sei-1019/javascript/01functions/02callbacks) |
 | |  |  |  | Lesson | Timing Functions | [link](https://romebell.gitbook.io/sei-1019/javascript/01functions/03timing-functions) |
 | |  |  |  | Lesson/Lab | Iterators | [Lecture](https://romebell.gitbook.io/sei-1019/javascript/01functions/04iterators), [Lab]()  |
 | |  |  |  | Lesson | DOM and Events | [link](https://romebell.gitbook.io/sei-1019/javascript/01readme) |
@@ -48,3 +48,4 @@
 | 5 | 10/23/2020 | 1 | Friday | Lesson | DOM Manipulation | [link](https://romebell.gitbook.io/sei-1019/javascript/02more-manipulation) |
 | |  |  |  | Lesson | JS Clock Intervals | [link](https://github.com/SEI-ATL/js-clock-intervals) |
 | |  |  |  | Deliverable | Tic Tac Toe | [link](https://github.com/SEI-ATL/tic-tac-toe) |
+
