@@ -13,6 +13,239 @@
 
 `Important Disclaimer`: This schedule is a guideline and serves as an estimate for what your instructional staff would like to accomplish. This calendar is not set in stone and is subject to change at any time for reasons such as snow days, staff illness, special events, and individual class pacing.
 
+| Date | Week | Day | Links |
+| ------------------------- | ----------------------- | ----------- | ----------- |
+| 10/19/2020 | 1 | Monday | Version control, DOM manipulation, jQuery, AJAX, fundamentals |
+| 10/20/2020 | 1 | Tuesday| Data Structures & Algorithms, Whiteboarding, Python fundamentals |
+| 10/21/2020 | 1 | Wednesday | Local auth, RESTful routing, ORMs |
+| 10/22/2020 | 1 | Thursday | JWT Token Auth, MongoDB | 
+| 10/23/2020 | 1 | Friday | JWT Token Auth, MongoDB | 
+
+| Date | Week | Day | Type | Topic | Link | 
+| --- | ---| --- | --- | --- | --- | --- |
+| 10/19/2020 | 1 | Monday | Lesson | Install Fest | [link](https://github.com/SEI-ATL/install_fest) |
+|  |  |  | Lesson | Command Line | [link](https://romebell.gitbook.io/sei-1019/development-workflow/01readme) |
+|  |  |  | Lesson | Git | [link](https://romebell.gitbook.io/sei-1019/development-workflow/intro-git)  |
+|  |  |  | Lesson | Git Config Instructions | [link](https://github.com/TaylorDarneille/SEI713/blob/master/00-config-deployment/installfest/osx/readme.md#git) |
+|  |  |  | Deliverable | Command Line Murder Mystery | [link](https://github.com/SEI-ATL/command-line-murder-mystery) |
+| 10/20/2020  | 2 | Tuesday | Lesson | HTML Review | [link](https://romebell.gitbook.io/sei-1019/html-css/html-review)   |
+|  |  |  | Lesson | CSS Selectors | [link](https://romebell.gitbook.io/sei-1019/html-css/css-selectors)   |
+|  |  |  | Lesson | CSS Diner | [link](https://flukeout.github.io/)   |
+|  |  |  |  | CSS Box Model | [link](https://romebell.gitbook.io/sei-1019/html-css/00readme/01box-model)   |
+|  |  |  |  | CSS Display & Positioning* | [Lecture](https://romebell.gitbook.io/sei-1019/html-css/00readme/02display-positioning), [Exercise](https://github.com/SEI-ATL/css-positioning)   |
+|  |  |  |  | CSS Flexbox | [link](https://romebell.gitbook.io/sei-1019/html-css/00readme/06flexbox) |
+|  |  |  |  | Flexbox Froggy | [Flexbox Froggy](http://flexboxfroggy.com) |
+|  |  |  |  | CSS Grid | [link](https://romebell.gitbook.io/sei-1019/html-css/00readme/07grid) |
+|  |  |  | Deliverable | Airbnb Mockup | [link](https://github.com/SEI-ATL/css-airbnb)   |
+| 10/21/2020 | 3 | Wednesday | Lesson | HTML Review | [link](https://romebell.gitbook.io/sei-1019/html-css/html-review)   |
+|  |  |  | Lesson | CSS Selectors | [link](https://romebell.gitbook.io/sei-1019/html-css/css-selectors)   |
+|  |  |  | Lesson | CSS Diner | [link](https://flukeout.github.io/)   |
+|  |  |  |  | CSS Box Model | [link](https://romebell.gitbook.io/sei-1019/html-css/00readme/01box-model)   |
+|  |  |  |  | CSS Display & Positioning* | [Lecture](https://romebell.gitbook.io/sei-1019/html-css/00readme/02display-positioning), [Exercise](https://github.com/SEI-ATL/css-positioning)   |
+|  |  |  |  | CSS Flexbox | [link](https://romebell.gitbook.io/sei-1019/html-css/00readme/06flexbox) |
+|  |  |  |  | Flexbox Froggy | [Flexbox Froggy](http://flexboxfroggy.com) |
+|  |  |  |  | CSS Grid | [link](https://romebell.gitbook.io/sei-1019/html-css/00readme/07grid) |
+|  |  |  | Deliverable | Airbnb Mockup | [link](https://github.com/SEI-ATL/css-airbnb)   |
+| 10/22/2020   | 4  | Thursday | Lesson | HTML Review | [link](https://romebell.gitbook.io/sei-1019/html-css/html-review)   |
+|  |  |  | Lesson | Callbacks | [link](https://romebell.gitbook.io/sei-1019/javascript/01functions/02callbacks)   |
+|  |  |  | Lesson | Timing Functions | [link](https://romebell.gitbook.io/sei-1019/javascript/01functions/03timing-functions)   |
+|  |  |  |  | Iterators | [link](https://romebell.gitbook.io/sei-1019/javascript/01functions/04iterators)   |
+|  |  |  |  | JS Callbacks, Iterators| [Lecture](https://github.com/SEI-ATL/js-callbacks-iterators)  |
+|  |  |  |  | DOM & Events| [link](https://romebell.gitbook.io/sei-1019/javascript/01readme) |
+|  |  |  |  | Flexbox Froggy | [Flexbox Froggy]() |
+|  |  |  |  | CSS Grid | [link](https://romebell.gitbook.io/sei-1019/html-css/00readme/07grid) |
+|  |  |  | Deliverable | Airbnb Mockup | [link](https://github.com/SEI-ATL/css-airbnb)   |
+| 10/23/2020 | 5 | Friday | Lesson | HTML Review | [link](https://romebell.gitbook.io/sei-1019/html-css/html-review)   |
+|  |  |  | Lesson | CSS Selectors | [link](https://romebell.gitbook.io/sei-1019/html-css/css-selectors)   |
+|  |  |  | Lesson | CSS Diner | [link](https://flukeout.github.io/)   |
+|  |  |  |  | CSS Box Model | [link](https://romebell.gitbook.io/sei-1019/html-css/00readme/01box-model)   |
+|  |  |  |  | CSS Display & Positioning* | [Lecture](https://romebell.gitbook.io/sei-1019/html-css/00readme/02display-positioning), [Exercise](https://github.com/SEI-ATL/css-positioning)   |
+|  |  |  |  | CSS Flexbox | [link](https://romebell.gitbook.io/sei-1019/html-css/00readme/06flexbox) |
+|  |  |  |  | Flexbox Froggy | [Flexbox Froggy](http://flexboxfroggy.com) |
+|  |  |  |  | CSS Grid | [link](https://romebell.gitbook.io/sei-1019/html-css/00readme/07grid) |
+|  |  |  | Deliverable | Airbnb Mockup | [link](https://github.com/SEI-ATL/css-airbnb)   |
+
+| Date | Week | Day | Type | Topic | Link | 
+| --- | ---| --- | --- | --- | --- | --- |
+| 10/19/2020 | 1 | Monday | Lesson | Install Fest | [link](https://github.com/SEI-ATL/install_fest) |
+|  |  |  | Lesson | Command Line | [link](https://romebell.gitbook.io/sei-1019/development-workflow/01readme) |
+|  |  |  | Lesson | Git | [link](https://romebell.gitbook.io/sei-1019/development-workflow/intro-git)  |
+|  |  |  | Lesson | Git Config Instructions | [link](https://github.com/TaylorDarneille/SEI713/blob/master/00-config-deployment/installfest/osx/readme.md#git) |
+|  |  |  | Deliverable | Command Line Murder Mystery | [link](https://github.com/SEI-ATL/command-line-murder-mystery) |
+| 10/19/2020 | 2 | Tuesday | Lesson | Install Fest | [link]() |
+|  |  |  | Lesson | Command Line | [link]() |
+|  |  |  | Lesson | Git | [link]()  |
+|  |  |  | Lesson | Git Config Instructions | [link]() |
+|  |  |  | Deliverable | Command Line Murder Mystery | [link]() |
+| 10/19/2020 | 3 | Wednesday | Lesson | Install Fest | [link]() |
+|  |  |  | Lesson | Command Line | [link]() |
+|  |  |  | Lesson | Git | [link]()  |
+|  |  |  | Lesson | Git Config Instructions | [link]() |
+|  |  |  | Deliverable | Command Line Murder Mystery | [link]() |
+| 10/22/2020 | 4 | Thursday | Lesson | Callbacks | [link](https://romebell.gitbook.io/sei-1019/javascript/01functions/02callbacks)   |
+|  |  |  | Lesson | Timing Functions | [link](https://romebell.gitbook.io/sei-1019/javascript/01functions/03timing-functions)   |
+|  |  |  |  | Iterators | [link](https://romebell.gitbook.io/sei-1019/javascript/01functions/04iterators)   |
+|  |  |  |  | JS Callbacks, Iterators| [Lecture](https://github.com/SEI-ATL/js-callbacks-iterators)  |
+|  |  |  |  | DOM & Events| [link](https://romebell.gitbook.io/sei-1019/javascript/01readme) |
+|  |  |  |  | Flexbox Froggy | [Flexbox Froggy]() |
+|  |  |  |  | CSS Grid | [link](https://romebell.gitbook.io/sei-1019/html-css/00readme/07grid) |
+|  |  |  | Deliverable | Airbnb Mockup | [link](https://github.com/SEI-ATL/css-airbnb)   |
+| 10/19/2020 | 5 | Friday | Lesson | Install Fest | [link]() |
+|  |  |  | Lesson | Command Line | [link]() |
+|  |  |  | Lesson | Git | [link]()  |
+|  |  |  | Lesson | Git Config Instructions | [link]() |
+|  |  |  | Deliverable | Command Line Murder Mystery | [link]() |
+
+| Date | Week | Day | Type | Topic | Link | 
+| --- | ---| --- | --- | --- | --- | --- |
+| 10/19/2020 | 3 | Monday | Lesson | Install Fest | [link]() |
+|  |  |  | Lesson | Command Line | [link]() |
+|  |  |  | Lesson | Git | [link]()  |
+|  |  |  | Lesson | Git Config Instructions | [link]() |
+|  |  |  | Deliverable | Command Line Murder Mystery | [link]() |
+| 10/19/2020 | 3 | Tuesday | Lesson | Install Fest | [link]() |
+|  |  |  | Lesson | Command Line | [link]() |
+|  |  |  | Lesson | Git | [link]()  |
+|  |  |  | Lesson | Git Config Instructions | [link]() |
+|  |  |  | Deliverable | Command Line Murder Mystery | [link]() |
+| 10/19/2020 | 3 | Wednesday | Lesson | Install Fest | [link]() |
+|  |  |  | Lesson | Command Line | [link]() |
+|  |  |  | Lesson | Git | [link]()  |
+|  |  |  | Lesson | Git Config Instructions | [link]() |
+|  |  |  | Deliverable | Command Line Murder Mystery | [link]() |
+| 10/19/2020 | 3 | Thursday | Lesson | Install Fest | [link]() |
+|  |  |  | Lesson | Command Line | [link]() |
+|  |  |  | Lesson | Git | [link]()  |
+|  |  |  | Lesson | Git Config Instructions | [link]() |
+|  |  |  | Deliverable | Command Line Murder Mystery | [link]() |
+| 10/19/2020 | 3 | Friday | Lesson | Install Fest | [link]() |
+|  |  |  | Lesson | Command Line | [link]() |
+|  |  |  | Lesson | Git | [link]()  |
+|  |  |  | Lesson | Git Config Instructions | [link]() |
+|  |  |  | Deliverable | Command Line Murder Mystery | [link]() |
+
+| Date | Week | Day | Type | Topic | Link | 
+| --- | ---| --- | --- | --- | --- | --- |
+| 10/19/2020 | 3 | Monday | Lesson | Install Fest | [link]() |
+|  |  |  | Lesson | Command Line | [link]() |
+|  |  |  | Lesson | Git | [link]()  |
+|  |  |  | Lesson | Git Config Instructions | [link]() |
+|  |  |  | Deliverable | Command Line Murder Mystery | [link]() |
+| 10/19/2020 | 3 | Tuesday | Lesson | Install Fest | [link]() |
+|  |  |  | Lesson | Command Line | [link]() |
+|  |  |  | Lesson | Git | [link]()  |
+|  |  |  | Lesson | Git Config Instructions | [link]() |
+|  |  |  | Deliverable | Command Line Murder Mystery | [link]() |
+| 10/19/2020 | 3 | Wednesday | Lesson | Install Fest | [link]() |
+|  |  |  | Lesson | Command Line | [link]() |
+|  |  |  | Lesson | Git | [link]()  |
+|  |  |  | Lesson | Git Config Instructions | [link]() |
+|  |  |  | Deliverable | Command Line Murder Mystery | [link]() |
+| 10/19/2020 | 3 | Thursday | Lesson | Install Fest | [link]() |
+|  |  |  | Lesson | Command Line | [link]() |
+|  |  |  | Lesson | Git | [link]()  |
+|  |  |  | Lesson | Git Config Instructions | [link]() |
+|  |  |  | Deliverable | Command Line Murder Mystery | [link]() |
+| 10/19/2020 | 3 | Friday | Lesson | Install Fest | [link]() |
+|  |  |  | Lesson | Command Line | [link]() |
+|  |  |  | Lesson | Git | [link]()  |
+|  |  |  | Lesson | Git Config Instructions | [link]() |
+|  |  |  | Deliverable | Command Line Murder Mystery | [link]() |
+
+| Date | Week | Day | Type | Topic | Link | 
+| --- | ---| --- | --- | --- | --- | --- |
+| 10/19/2020 | 3 | Monday | Lesson | Install Fest | [link]() |
+|  |  |  | Lesson | Command Line | [link]() |
+|  |  |  | Lesson | Git | [link]()  |
+|  |  |  | Lesson | Git Config Instructions | [link]() |
+|  |  |  | Deliverable | Command Line Murder Mystery | [link]() |
+| 10/19/2020 | 3 | Tuesday | Lesson | Install Fest | [link]() |
+|  |  |  | Lesson | Command Line | [link]() |
+|  |  |  | Lesson | Git | [link]()  |
+|  |  |  | Lesson | Git Config Instructions | [link]() |
+|  |  |  | Deliverable | Command Line Murder Mystery | [link]() |
+| 10/19/2020 | 3 | Wednesday | Lesson | Install Fest | [link]() |
+|  |  |  | Lesson | Command Line | [link]() |
+|  |  |  | Lesson | Git | [link]()  |
+|  |  |  | Lesson | Git Config Instructions | [link]() |
+|  |  |  | Deliverable | Command Line Murder Mystery | [link]() |
+| 10/19/2020 | 3 | Thursday | Lesson | Install Fest | [link]() |
+|  |  |  | Lesson | Command Line | [link]() |
+|  |  |  | Lesson | Git | [link]()  |
+|  |  |  | Lesson | Git Config Instructions | [link]() |
+|  |  |  | Deliverable | Command Line Murder Mystery | [link]() |
+| 10/19/2020 | 3 | Friday | Lesson | Install Fest | [link]() |
+|  |  |  | Lesson | Command Line | [link]() |
+|  |  |  | Lesson | Git | [link]()  |
+|  |  |  | Lesson | Git Config Instructions | [link]() |
+|  |  |  | Deliverable | Command Line Murder Mystery | [link]() |
+
+| Date | Week | Day | Type | Topic | Link | 
+| --- | ---| --- | --- | --- | --- | --- |
+| 10/19/2020 | 3 | Monday | Lesson | Install Fest | [link]() |
+|  |  |  | Lesson | Command Line | [link]() |
+|  |  |  | Lesson | Git | [link]()  |
+|  |  |  | Lesson | Git Config Instructions | [link]() |
+|  |  |  | Deliverable | Command Line Murder Mystery | [link]() |
+| 10/19/2020 | 3 | Tuesday | Lesson | Install Fest | [link]() |
+|  |  |  | Lesson | Command Line | [link]() |
+|  |  |  | Lesson | Git | [link]()  |
+|  |  |  | Lesson | Git Config Instructions | [link]() |
+|  |  |  | Deliverable | Command Line Murder Mystery | [link]() |
+| 10/19/2020 | 3 | Wednesday | Lesson | Install Fest | [link]() |
+|  |  |  | Lesson | Command Line | [link]() |
+|  |  |  | Lesson | Git | [link]()  |
+|  |  |  | Lesson | Git Config Instructions | [link]() |
+|  |  |  | Deliverable | Command Line Murder Mystery | [link]() |
+| 10/19/2020 | 3 | Thursday | Lesson | Install Fest | [link]() |
+|  |  |  | Lesson | Command Line | [link]() |
+|  |  |  | Lesson | Git | [link]()  |
+|  |  |  | Lesson | Git Config Instructions | [link]() |
+|  |  |  | Deliverable | Command Line Murder Mystery | [link]() |
+| 10/19/2020 | 3 | Friday | Lesson | Install Fest | [link]() |
+|  |  |  | Lesson | Command Line | [link]() |
+|  |  |  | Lesson | Git | [link]()  |
+|  |  |  | Lesson | Git Config Instructions | [link]() |
+|  |  |  | Deliverable | Command Line Murder Mystery | [link]() |
+
+| Date | Week | Day | Type | Topic | Link | 
+| --- | ---| --- | --- | --- | --- | --- |
+| 10/19/2020 | 3 | Monday | Lesson | Install Fest | [link]() |
+|  |  |  | Lesson | Command Line | [link]() |
+|  |  |  | Lesson | Git | [link]()  |
+|  |  |  | Lesson | Git Config Instructions | [link]() |
+|  |  |  | Deliverable | Command Line Murder Mystery | [link]() |
+| 10/19/2020 | 3 | Tuesday | Lesson | Install Fest | [link]() |
+|  |  |  | Lesson | Command Line | [link]() |
+|  |  |  | Lesson | Git | [link]()  |
+|  |  |  | Lesson | Git Config Instructions | [link]() |
+|  |  |  | Deliverable | Command Line Murder Mystery | [link]() |
+| 10/19/2020 | 3 | Wednesday | Lesson | Install Fest | [link]() |
+|  |  |  | Lesson | Command Line | [link]() |
+|  |  |  | Lesson | Git | [link]()  |
+|  |  |  | Lesson | Git Config Instructions | [link]() |
+|  |  |  | Deliverable | Command Line Murder Mystery | [link]() |
+| 10/19/2020 | 3 | Thursday | Lesson | Install Fest | [link]() |
+|  |  |  | Lesson | Command Line | [link]() |
+|  |  |  | Lesson | Git | [link]()  |
+|  |  |  | Lesson | Git Config Instructions | [link]() |
+|  |  |  | Deliverable | Command Line Murder Mystery | [link]() |
+| 10/19/2020 | 3 | Friday | Lesson | Install Fest | [link]() |
+|  |  |  | Lesson | Command Line | [link]() |
+|  |  |  | Lesson | Git | [link]()  |
+|  |  |  | Lesson | Git Config Instructions | [link]() |
+|  |  |  | Deliverable | Command Line Murder Mystery | [link]() |
+
+
+| Date | Week | Day | Type | Topic | Link | 
+| --- | ---| --- | --- | --- | --- |
+| 10/19/2020 | 1 | Monday | Lesson | Install Fest |
+| 10/20/2020 | 1 | | Lesson | Command Line |
+| 10/21/2020 | 1 |  | Lesson | Git |
+| 10/22/2020 | 1 |  | Lesson | Git Config Instructions |
+| 10/23/2020 | 1 |  | Deliverable | Command Line Murder Mystery |
+
+
 # Unit 1
 
 ## `Week 1`
