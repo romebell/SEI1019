@@ -16,7 +16,7 @@
 # Unit 1
 
 | No. | Date | Week | Day | Type | Topic | Link |
-| --- | ---| --- | --- | --- | --- | --- | --- |
+| ---| --- | --- | --- | --- | --- | --- |
 | 1 | 10/19/2020 | 1 | Monday | Lesson | Install Fest | [link](https://github.com/SEI-ATL/install_fest) [link 2](https://romebell.gitbook.io/sei-1019/deployment-and-config/installfest/osx#sei-atlanta-install-fest) |
 | |  |  |  | Lesson | Command Line | [link](https://romebell.gitbook.io/sei-1019/development-workflow/01readme) |
 | |  |  |  | Lesson | Intro to Git | [link](https://romebell.gitbook.io/sei-1019/development-workflow/intro-git)  |
