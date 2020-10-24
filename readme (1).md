@@ -28,7 +28,7 @@ npm install -g gitbook-cli
 * On your terminal, run:
 - Get the changes from us
 ```text
-git fetch upstream master \(get the changes from us\)
+git fetch upstream master
 ```
 - Add those changes to your local machine's clone
 ```text
