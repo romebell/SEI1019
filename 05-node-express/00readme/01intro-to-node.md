@@ -32,21 +32,29 @@ We will use Homebrew to install Node via the command line.
 
 #### 1. update Homebrew with the latest version of Node
 
-`brew update`
+```text
+brew update
+```
 
 #### 2. install Node on your machine \(this may take a few minutes\)
 
-`brew install node`
+```text
+brew install node
+```
 
 #### 3. verify that Node was installed by checking the version that is on your machine
 
-`node -v`
+```text
+node -v
+```
 
 ### Setting up a Node Project
 
 #### 1. Create a new folder for your first node project.
 
-`mkdir my-first-node-proj`
+```text
+mkdir my-first-node-proj
+```
 
 Open the folder in your favorite text editor.
 
@@ -68,17 +76,21 @@ Take a look at the `package.json` file that was just created. This is where the 
 
 Unless you specified a different file name in setup \(check the `main` value in `package.json`\), Node will look for a file called `index.js` as the entry point for running your project. This file holds the code to be executed - this is the heart of your program. Create this file now.
 
-`touch index.js`
+```text
+touch index.js
+```
 
 Let's write some code in here and run it to see Node in action! Write the following line to your `index.js`:
-
-`console.log("Hello world!")`
+```javascript
+console.log("Hello world!");
+```
 
 #### 4. Run your program!
 
 To run a file in node via the command line, type `node [file name here]`.
-
-`node index.js`
+```text
+node index.js
+```
 
 Congratulations, you've created and run your first Node program! Let's learn more about how Node is used in the wild \(and eventually, in the web-development context\).
 
