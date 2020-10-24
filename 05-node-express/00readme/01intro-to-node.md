@@ -68,7 +68,10 @@ npm init
 
 You will be prompted to enter values for a number of fields to set up the node project. You can just press enter to accept the default value, or enter specific values if you'd like.
 
-To skip this step in the future \(and accept all default values at once\), type `npm init -y`.
+To skip this step in the future \(and accept all default values at once\), type:
+```text
+npm init -y
+```
 
 Take a look at the `package.json` file that was just created. This is where the values we just set up via `npm init` are stored. This is like your _settings_ file. You can edit these values by changing them in this file \(make sure to save\).
 
