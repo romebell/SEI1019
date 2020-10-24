@@ -211,6 +211,7 @@ Media queries are at the heart of every responsive design solution. While there 
 
 ## Additional Reading
 
+* [A Complete Guide To CSS Media Queries](https://css-tricks.com/a-complete-guide-to-css-media-queries/)
 * [7 Habits of Highly Effective Media Queries](http://bradfrost.com/blog/post/7-habits-of-highly-effective-media-queries/)
 * [Media Queries for Standard Devices](https://css-tricks.com/snippets/css/media-queries-for-standard-devices/)
 * [Brad Frost - Navigation Patterns for Responsive Design](http://bradfrost.com/blog/web/complex-navigation-patterns-for-responsive-design/)
