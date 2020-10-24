@@ -2,7 +2,7 @@
 
 ![](https://res.cloudinary.com/briezh/image/upload/v1539805526/spaceneedle_ga_sea_ykjk40.jpg)
 
-Welcome to GA Atlanta! This is the notes repository for our Software Engineering Immersive \(formerly known as Web Development Immersive\). You can view the content in a more searchable/friendly format on [Gitbook](https://tmdarneille.gitbook.io/sei-ga-sea/)!
+Welcome to GA Atlanta! This is the notes repository for our Software Engineering Immersive \(formerly known as Web Development Immersive\). You can view the content in a more searchable/friendly format on [Gitbook](https://romebell.gitbook.io/sei-1019/)!
 
 ![GA Logo](.gitbook/assets/ga_cog.png)
 
@@ -13,16 +13,31 @@ This is totally optional. If you choose to do this, please update every 3-6 mont
 * Fork this repository
 * Clone your fork to your development machine
 * Setup a remote for your fork
-  * On your terminal, run `git remote add upstream git@github.com:romebell/SEI1019.git`
-* Install the Gitbook CLI tool by running `npm install -g gitbook-cli`
+* On your terminal, run 
+```text
+git remote add upstream git@github.com:romebell/SEI1019.git
+```
+* Install the Gitbook CLI tool by running 
+```text
+npm install -g gitbook-cli
+```
 * Preview the Gitbook by running `gitbook serve`
 
 #### Updating your local repo
 
 * On your terminal, run:
-  * `git fetch upstream master` \(get the changes from us\)
-  * `git merge upstream/master` \(add those changes to your local machine's clone\)
-  * `git push origin master` \(updates your fork on github\)
+- Get the changes from us
+```text
+git fetch upstream master \(get the changes from us\)
+```
+- Add those changes to your local machine's clone
+```text
+git merge upstream/master
+```
+- Updates your `fork` on Github
+```text
+git push origin master
+```
 
 ## Contributing to the Notes
 
