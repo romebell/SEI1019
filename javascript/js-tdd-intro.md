@@ -1,4 +1,4 @@
-# Intro to TDD
+# Intro to Test-Driven Development \(or `TDD`\)
 
 ## Objectives
 
