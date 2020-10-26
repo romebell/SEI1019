@@ -30,7 +30,7 @@ Assert is a Node module that has many functions. We'll be looking at the functio
 To use the assert plugin we must first require it as follows.
 
 ```javascript
-var assert = require('assert');
+const assert = require('assert');
 ```
 
 This loads `assert` and allows us to reference the methods attached to it. So to use the strictEqual method we simply call assert.strictEqual\(\) which has 3 parameters.
@@ -42,7 +42,7 @@ This loads `assert` and allows us to reference the methods attached to it. So to
 Here is an example to check a simple `sum` function.
 
 ```javascript
-var sum = function(num1, num2) {};
+const sum = function(num1, num2) {};
 
 assert.strictEqual(sum(1, 1) , 2, '1+1 should equal 2.');
 
@@ -55,7 +55,7 @@ Using the TDD process, we would start our code like this and execute it. Since w
 Failing the test is a way to _test our test_. Now, we can work on implementing the `sum` function until the test passes.
 
 ```javascript
-var sum = function(num1, num2) {
+const sum = function(num1, num2) {
   return num1 + num2;
 };
 
@@ -69,7 +69,7 @@ All the functions that belong to `assert` will return `undefined` if the test pa
 
 ### Usage of Assert
 
-In WDI, we'll start off writing assert tests for you. Later, you'll write your own tests.
+In SEI, we'll start off writing assert tests for you. Later, you'll write your own tests.
 
 Finally, when testing in Express, we'll work with more powerful testing frameworks.
 
