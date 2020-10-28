@@ -15,7 +15,7 @@ When multiple files are being used, it can be a major issue when global variable
 Since namespaces aren't a native concept to JavaScript, they are commonly implemented as objects. For example:
 
 ```javascript
-var myNameSpace = {
+const myNameSpace = {
   list: ["Brian", "Lenny", "Daniel", "Sarah"],
   printList: function() {
     this.list.forEach(function(item) {
@@ -43,7 +43,7 @@ Create a namespace and call it your first name. Then, add these four properties:
 So far, our module has only public properties. This means that someone can access our namespace and it's properties - what if we don't want that? What if we want to protect values? First we decide which should be public and private. Let's look at this example.
 
 ```javascript
-var bankAccount = {
+const bankAccount = {
   cash: 1000,
   pin: 1234
 }
@@ -67,8 +67,8 @@ We need to make these variables private. To 'privatize' properties, we can use w
 
 ```javascript
 function bankAccount() {
-  var cash = 1000;
-  var pin = 1234;
+  let cash = 1000;
+  let pin = 1234;
 
   function withdraw(amount, enteredPin) {
     if (enteredPin === pin) {
@@ -88,7 +88,7 @@ function bankAccount() {
 }
 
 // create a new bank account and withdraw 30
-var account = bankAccount();
+let account = bankAccount();
 account.withdraw(30, 1234);
 
 // returns 970
@@ -116,9 +116,9 @@ Note that most languages do not implement the idea of **private** data in this m
 Note that we had to **call** the `bankAccount` function before we started using it. An alternative is to create an **Immediately-Invoked Function Expression \(IIFE\)**. Yikes! That's a fancy term for a function that's executed immediately after it's created. We can make the `bankAccount` an IIFE by wrapping it in parentheses, then **calling the function** with two additional parentheses at the end.
 
 ```javascript
-var account = (function bankAccount() {
-  var cash = 1000;
-  var pin = 1234;
+let account = (function bankAccount() {
+  let cash = 1000;
+  let pin = 1234;
 
   function withdraw(amount, enteredPin) {
     if (enteredPin === pin) {
@@ -169,9 +169,9 @@ What happens if we have a global variable outside of our IIFE, and we want to us
 Luckily, IIFEs are just functions that are called right away, so it's possible to define parameters if arguments need to be passed in. Here's our final modified `bankAccount` IIFE.
 
 ```javascript
-var account = (function bankAccount(initialCash, initialPin) {
-  var cash = initialCash;
-  var pin = initialPin;
+let account = (function bankAccount(initialCash, initialPin) {
+  let cash = initialCash;
+  let pin = initialPin;
 
   function withdraw(amount, enteredPin) {
     if (enteredPin === pin) {
