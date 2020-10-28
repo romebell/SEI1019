@@ -26,8 +26,8 @@ Person.prototype.greet = function() {
     return 'Hello, my name is ' + this.name;
 };
 
-var brian = new Person('Brian');
-var paul = new Person('Paul');
+const brian = new Person('Brian');
+const paul = new Person('Paul');
 
 brian.greet(); // Hello, my name is Brian
 paul.greet(); // Hello, my name is Paul
