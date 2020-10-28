@@ -7,44 +7,44 @@ Call and apply are two functions that allow us to change what `this` represents.
 **Example 1:**
 
 ```javascript
-var getAge = function(friend) {
+const getAge = function(friend) {
   return friend.age;
 };
 
-var john = { name: 'John', age: 21 };
+const john = { name: 'John', age: 21 };
 getAge(john);
 ```
 
 rewritten using `call`
 
 ```javascript
-var getAge = function() {
+const getAge = function() {
   return this.age;
 };
 
-var john = { name: 'John', age: 21 };
+const john = { name: 'John', age: 21 };
 getAge.call(john);
 ```
 
 **Example 2:**
 
 ```javascript
-var setAge = function(friend, newAge) {
+const setAge = function(friend, newAge) {
   friend.age = newAge;
 };
 
-var john = { name: 'John', age: 21 };
+const john = { name: 'John', age: 21 };
 setAge(john, 35);
 ```
 
 rewritten using `call`
 
 ```javascript
-var setAge = function(newAge) {
+const setAge = function(newAge) {
   this.age = newAge;
 };
 
-var john = { name: 'John', age: 21 };
+const john = { name: 'John', age: 21 };
 setAge.call(john, 35);
 ```
 
@@ -55,11 +55,11 @@ setAge.call(john, 35);
 Going back to Example 2, here's what it would look like with `apply`.
 
 ```javascript
-var setAge = function(newAge) {
+const setAge = function(newAge) {
   this.age = newAge;
 };
 
-var john = { name: 'John', age: 21 };
+const john = { name: 'John', age: 21 };
 setAge.apply(john, [35]);
 ```
 
@@ -103,7 +103,7 @@ Object.hasOwnProperty\('nameOfProperty'\) - always make sure the name of the pro
 Example 1
 
 ```javascript
-var taco = {
+const taco = {
   food: 'taco'
 }
 
@@ -130,8 +130,8 @@ function Student(name, course) {
 Student.prototype = Object.create(Person.prototype);
 Student.prototype.constructor = Student;
 
-var person = new Person('Bob');
-var student = new Student('Tom', 'WDI');
+const person = new Person('Bob');
+const student = new Student('Tom', 'SEI');
 
 person.hasOwnProperty('name'); //returns true
 student.hasOwnProperty('course'); //returns true
@@ -147,7 +147,7 @@ This method is a bit more common, and the syntax looks like this:
 Example 1:
 
 ```javascript
-var color1 = {};
+const color1 = {};
 color1 instanceof Object; // returns true
 ```
 
@@ -170,8 +170,8 @@ function Student(name, course) {
 Student.prototype = Object.create(Person.prototype);
 Student.prototype.constructor = Student;
 
-var p = new Person('Bob');
-var s = new Student('Tom', 'WDI');
+const p = new Person('Bob');
+const s = new Student('Tom', 'SEI');
 
 s instanceof Person //returns true
 p instanceof Student //returns false
@@ -191,8 +191,8 @@ Object.prototype.isPrototypeOf(objectInstance);
 Example:
 
 ```javascript
-var p = new Person('Bob');
-var s = new Student('Tom', 'WDI');
+const p = new Person('Bob');
+const s = new Student('Tom', 'WDI');
 
 Person.prototype.isPrototypeOf(s); // returns true
 Student.prototype.isPrototypeOf(p); // returns false
