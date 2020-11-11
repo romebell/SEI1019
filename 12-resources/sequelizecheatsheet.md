@@ -18,6 +18,11 @@ sequelize init
 sequelize db:create
 ```
 
+**or**
+```text
+createdb <database name>
+```
+
 ### Create a Sequelize Model
 
 **NOTE:** The model name will be **singular**
