@@ -284,7 +284,7 @@ There are four types of JOINs in SQL:
 * `INNER JOIN`
 * `FULL [OUTER] JOIN`
 
-![4 Types of JOINs](https://www.dofactory.com/Images/sql-joins.png)
+![4 Types of JOINs](https://cdn.educba.com/academy/wp-content/uploads/2019/10/Types-of-Joins-in-SQl.png)
 
 Let's look at our table for customers and our table for orders. The customers table looks like this:
 
@@ -326,7 +326,7 @@ As you can see, there are some customers who haven't placed orders. If we ask fo
 SELECT c.name, o.order_num
 FROM customers c 
 INNER JOIN orders o
-ON c.id=o.customer_id;
+ON c.id = o.customer_id;
 ```
 
 An `INNER JOIN` will return a dataset with all the matches from our customer and order tables where there is no NULL value on either side.
@@ -415,7 +415,7 @@ With a `LEFT JOIN` the table returned will have all values in the left table, ev
 SELECT c.name, o.order_num
 FROM customers c 
 RIGHT JOIN orders o
-ON c.id=o.customer_id;
+ON c.id = o.customer_id;
 ```
 
 With a `RIGHT JOIN` the table returned will have all values in the right table, even if there is no corresponding value on the left side. This is a very rare join as it would require us to have orphaned records in the orders table. That is, orders that have no related customer. This is actually impossible with the way we have the tables set up. The foreign key constraint in the orders table basically says that you can't have a value in the `customer_id` column in the orders table if that `id` doesn't exist in the customers table. So when we run this, it looks exactly like our INNER JOIN above.
@@ -466,7 +466,12 @@ id | name
 We could use this query to view the ids and names from both the customers and the subscribers tables.
 
 ```sql
-SELECT id, name FROM customers UNION SELECT id, name FROM subscribers ORDER BY id;
+SELECT id, name 
+FROM customers 
+UNION 
+SELECT id, name 
+FROM subscribers 
+ORDER BY id;
 ```
 
 ```sql
