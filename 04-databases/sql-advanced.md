@@ -129,13 +129,15 @@ COUNT\(\) is an _aggregate function_.
 We use an aggregate function to get the total count of customers in a table.
 
 ```sql
-SELECT COUNT(*) FROM customers;
+SELECT COUNT(*) 
+FROM customers;
 ```
 
 What about getting the count of something more specific in customer, such as the number of rows that have the age datapoint?
 
 ```sql
-SELECT COUNT(age) FROM customers;
+SELECT COUNT(age) 
+FROM customers;
 ```
 
 ## GROUP BY
@@ -143,19 +145,25 @@ SELECT COUNT(age) FROM customers;
 GROUP BY is used to pull together identical data points. For example, say we just want to see the different ages we have in our customer table, without having to look through the duplicates too.
 
 ```sql
-SELECT age FROM customers GROUP BY age;
+SELECT age 
+FROM customers 
+GROUP BY age;
 ```
 
 What if we just want to know how many different ages we have? We can combine GROUP BY and COUNT\(\):
 
 ```sql
-SELECT age, COUNT(age) FROM customers GROUP BY age;
+SELECT age, COUNT(age) 
+FROM customers 
+GROUP BY age;
 ```
 
 Or maybe we want the average salaries of the customers from each country:
 
 ```sql
-SELECT country, AVG(salary) FROM customers GROUP BY country;
+SELECT country, AVG(salary) 
+FROM customers 
+GROUP BY country;
 ```
 
 ### Aliases
@@ -163,17 +171,22 @@ SELECT country, AVG(salary) FROM customers GROUP BY country;
 Aliases are a piece of a SQL query that allows you to temporarily rename a table or column for the current query.
 
 ```sql
-SELECT country, avg(salary) AS avgSal FROM customers GROUP BY country;
+SELECT country, avg(salary) AS avgSal 
+FROM customers 
+GROUP BY country;
 ```
 
 ### Alter Table Command
 
 ```sql
-ALTER TABLE customers ADD COLUMN date DATE;
+ALTER TABLE customers 
+ADD COLUMN date DATE;
 
-ALTER TABLE customers ALTER COLUMN name SET NOT NULL;
+ALTER TABLE customers 
+ALTER COLUMN name SET NOT NULL;
 
-ALTER TABLE customers DROP date;
+ALTER TABLE customers 
+DROP date;
 ```
 
 ### Foreign Keys
@@ -198,7 +211,8 @@ What if I want to get names of customers with the highest salary.
 Let's try it using WHERE
 
 ```sql
-SELECT name, salary FROM customers
+SELECT name, salary 
+FROM customers
 WHERE salary = MAX(salary);
 ```
 
@@ -207,9 +221,11 @@ That will give us an error, because MAX is an aggregate function and can't be us
 This will return the maximum rating, which we need to feed into WHERE.
 
 ```sql
-SELECT name, salary FROM customers
+SELECT name, salary 
+FROM customers
 WHERE salary = (
-    SELECT MAX(salary) FROM customers
+    SELECT MAX(salary) 
+    FROM customers
 );
 ```
 
@@ -278,7 +294,8 @@ As you can see, there are some customers who haven't placed orders. If we ask fo
 
 ```sql
 SELECT c.name, o.order_num
-FROM customers c INNER JOIN orders o
+FROM customers c 
+INNER JOIN orders o
 ON c.id=o.customer_id;
 ```
 
@@ -305,9 +322,10 @@ _NOTE: This is the default type of JOIN so if you don't specify the type, SQL wi
 **FULL \[OUTER\] JOIN**
 
 ```sql
-SELECT c.name, o.order_num FROM customers c
+SELECT c.name, o.order_num 
+FROM customers c
 FULL OUTER JOIN orders o
-ON c.id=o.customer_id;
+ON c.id = o.customer_id;
 ```
 
 _NOTE: The `OUTER` is optional_
@@ -337,8 +355,9 @@ _TIP: The `LEFT JOIN` and `RIGHT JOIN` below can both be considered types of out
 
 ```sql
 SELECT c.name, o.order_num
-FROM customers c LEFT JOIN orders o
-ON c.id=o.customer_id;
+FROM customers c 
+LEFT JOIN orders o
+ON c.id = o.customer_id;
 ```
 
 With a `LEFT JOIN` the table returned will have all values in the left table, even if there is no corresponding value on the right side.
@@ -364,7 +383,8 @@ With a `LEFT JOIN` the table returned will have all values in the left table, ev
 
 ```sql
 SELECT c.name, o.order_num
-FROM customers c RIGHT JOIN orders o
+FROM customers c 
+RIGHT JOIN orders o
 ON c.id=o.customer_id;
 ```
 
@@ -434,7 +454,12 @@ id | name
 Notice that the resulting table has fewer rows that the sum of the rows from each table. This is because UNION statements also eliminate any duplicate rows from the result. To include the duplicate rows, use UNION ALL.
 
 ```sql
-SELECT id, name FROM customers UNION ALL SELECT id, name FROM subscribers ORDER BY id;
+SELECT id, name 
+FROM customers 
+UNION ALL 
+SELECT id, name 
+FROM subscribers 
+ORDER BY id;
 ```
 
 ```sql
