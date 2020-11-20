@@ -131,7 +131,7 @@ Cloudinary provides a simple method to manipulate images by generating image url
 
 ```javascript
 //using previously generated public id
-var imgUrl = cloudinary.url("dysepgd0ucddso648bit", { width: 150, height: 150, crop: 'crop', gravity: 'face', radius: 'max' });
+let imgUrl = cloudinary.url("dysepgd0ucddso648bit", { width: 150, height: 150, crop: 'crop', gravity: 'face', radius: 'max' });
 ```
 
 Read more here: [http://cloudinary.com/documentation/node\_image\_manipulation](http://cloudinary.com/documentation/node_image_manipulation)
