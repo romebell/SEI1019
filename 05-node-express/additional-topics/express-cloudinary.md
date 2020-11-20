@@ -11,7 +11,7 @@ Historically, file upload has been a fairly complex task, but with Node \(and so
 
 ### Starter Code
 
-We'll use the starter code here: [https://github.com/WDI-SEA/express-cloudinary](https://github.com/WDI-SEA/express-cloudinary)
+We'll use the starter code here: [express-cloudinary](https://github.com/SEI-ATL/express-cloudinary)
 
 ### Process
 
@@ -130,7 +130,7 @@ In the above example, cloudinary will automatically generate a URL to the image.
 Cloudinary provides a simple method to manipulate images by generating image urls. To use it you simply pass in the public id of the image you want to load followed by an object containing the settings for manipulating the image.
 
 ```javascript
-//using previously generated public id
+// using previously generated public id
 let imgUrl = cloudinary.url("dysepgd0ucddso648bit", { width: 150, height: 150, crop: 'crop', gravity: 'face', radius: 'max' });
 ```
 
