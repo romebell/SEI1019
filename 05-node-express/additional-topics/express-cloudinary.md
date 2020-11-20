@@ -49,8 +49,8 @@ npm install --save multer
 **add/configure multer**
 
 ```javascript
-var multer = require('multer');
-var upload = multer({ dest: './uploads/' });
+const multer = require('multer');
+const upload = multer({ dest: './uploads/' });
 
 app.post('/', upload.single('myFile'), function(req, res) {
   res.send(req.file);
@@ -113,7 +113,7 @@ Uploading images to cloudinary can be done by requiring the cloudinary module an
 
 ```javascript
 //load module
-var cloudinary = require('cloudinary');
+const cloudinary = require('cloudinary');
 
 //post route
 app.post('/', upload.single('myFile'), function(req, res) {
