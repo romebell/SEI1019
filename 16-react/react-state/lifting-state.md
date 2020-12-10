@@ -54,7 +54,7 @@ Now that I know the components I need, the `state` I need, and where everything 
 ## Child Components
 
 ```javascript
-import React from 'react';
+import React, { Component } from 'react';
 
 class List extends Component {
     render(){
@@ -70,7 +70,7 @@ export default List;
 ```
 
 ```jsx
-import React from 'react';
+import React, { Component } from 'react';
 
 class Input extends Component {
     render(){
@@ -132,7 +132,7 @@ render() {
 The full container component looks like this:
 
 ```javascript
-import React, {Component} from 'react';
+import React, { Component } from 'react';
 import Input from './Input'
 import List from './List'
 
@@ -178,7 +178,7 @@ Now I need to return to the children components and add the functionality to han
 ## Finished Children components:
 
 ```jsx
-import React, {Component} from 'react';
+import React, { Component } from 'react';
 
 class Input extends Component {
     render(){
@@ -196,7 +196,7 @@ export default Input;
 ```
 
 ```jsx
-import React, {Component} from 'react';
+import React, { Component } from 'react';
 
 class List extends Component {
     render(){
