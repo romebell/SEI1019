@@ -113,7 +113,7 @@ You can now execute all the mongoDB commands over the database `familyTree`, whi
 
 Let's modify our index.js as follows:
 
-	```js
+```js
 	const mongoose = require('mongoose');
 	mongoose.connect('mongodb://localhost/familyTree');
 	
@@ -127,7 +127,7 @@ Let's modify our index.js as follows:
 	db.on('error', function(err) {
   		console.error(`Database error:\n${err}`);
 	});
-	```
+```
 
 We set up an event listener to fire once when the connection 'opens' to console log what host and port it is running on. It will also console log any errors whenever they occur.
 
@@ -201,7 +201,7 @@ Also, notice we create the Mongoose Model with `mongoose.model`. Remember, we ca
 
 Mongoose will add `createdAt` and add/update `updatedAt` fields if we set the `timestamps` option as follows in the schema:
 
-	```js
+```js
 	const userSchema = new mongoose.Schema({
     name: String,
     email: { type: String, required: true, unique: true },
@@ -212,7 +212,7 @@ Mongoose will add `createdAt` and add/update `updatedAt` fields if we set the `t
 	}, {
 	  timestamps: true
 	});
-	```
+```
 
 #### Creating Custom Methods
 
