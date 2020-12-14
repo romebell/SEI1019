@@ -202,16 +202,16 @@ Also, notice we create the Mongoose Model with `mongoose.model`. Remember, we ca
 Mongoose will add `createdAt` and add/update `updatedAt` fields if we set the `timestamps` option as follows in the schema:
 
 ```js
-	const userSchema = new mongoose.Schema({
-    name: String,
-    email: { type: String, required: true, unique: true },
-    meta: {
-      age: Number,
-      website: String
-    }
-	}, {
-	  timestamps: true
-	});
+const userSchema = new mongoose.Schema({
+  name: String,
+  email: { type: String, required: true, unique: true },
+  meta: {
+    age: Number,
+    website: String
+  }
+}, {
+	timestamps: true
+});
 ```
 
 #### Creating Custom Methods
