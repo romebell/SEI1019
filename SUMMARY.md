@@ -309,7 +309,7 @@
 * [Projects](11-projects/README.md)
   * [Project 1](11-projects/project-1.md)
   * [Project 2](11-projects/project-2.md)
-  * [Project 3](11-projects/project-3/README.md)
+  * [Project 3](11-projects/project-3/readme.md)
     * [Project 3 Pitch Guidelines](11-projects/project-3/pitch-guidelines.md)
   * [Project 4](11-projects/project-4.md)
   * [Past Projects](11-projects/past-projects/README.md)
