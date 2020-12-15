@@ -67,3 +67,10 @@ These projects were built in Rails, with the exception of WDI SEA 03, which used
 * [Contigo - Cassie/Navya/Derek/Jonathan](https://contigo.herokuapp.com/)
   * Make ride sharing easy with by fostering community and carpooling
 
+### SEI SEA 713
+
+* [Apartmate](https://apartmate-client.herokuapp.com/)
+* [GA Arcade](https://garcade.herokuapp.com/)U
+* [Uphoria](https://uphoria.herokuapp.com/)
+* [Mysterious Ravine](https://mysterious-ravine-95714.herokuapp.com/)
+* [Exit Code Zero](https://exit-code-zero.herokuapp.com/)
