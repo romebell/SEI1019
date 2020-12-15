@@ -70,7 +70,7 @@ These projects were built in Rails, with the exception of WDI SEA 03, which used
 ### SEI SEA 713
 
 * [Apartmate](https://apartmate-client.herokuapp.com/)
-* [GA Arcade](https://garcade.herokuapp.com/)U
+* [GA Arcade](https://garcade.herokuapp.com/)
 * [Uphoria](https://uphoria.herokuapp.com/)
 * [Mysterious Ravine](https://mysterious-ravine-95714.herokuapp.com/)
 * [Exit Code Zero](https://exit-code-zero.herokuapp.com/)
