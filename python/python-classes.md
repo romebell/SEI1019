@@ -16,7 +16,7 @@
 
 Fork or clone this repo to gain access to a complete working end-product of the examples in this lesson:
 
-[https://github.com/WDI-SEA/python-class-examples](https://github.com/WDI-SEA/python-class-examples)
+[https://github.com/SEI-ATL/python-class-examples](https://github.com/SEI-ATL/python-class-examples)
 
 ## Classes
 
