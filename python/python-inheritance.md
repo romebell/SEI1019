@@ -96,7 +96,7 @@ Take another look at the Phone classes to see how these pieces of syntax are use
 Notice how the Android class doesn't repeat the code that attaches the phone_number passed to the \`\_init_`method to the`self\` reference. The Android class calls the parent constructor through the super method and allows the parent class to execute that default behavior.
 
 ```python
-class Parent:
+class Phone:
   def __init__(self, phone_number):
     self.phone_number = phone_number
 
