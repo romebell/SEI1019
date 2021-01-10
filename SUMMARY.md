@@ -302,7 +302,7 @@
     * [Internet Lab](09-other-topics/internet-fundamentals/internetlab.md)
   * [User Stories and Wireframing](09-other-topics/user-stories-wireframing/README.md)
     * [Wireframing Exercise: Build an Idea](09-other-topics/user-stories-wireframing/exercise.md)
-  * [Post WDI](09-other-topics/post-wdi/README.md)
+  * [Post WDI](09-other-topics/post-wdi/readme.md)
     * [Learning Resources](09-other-topics/post-wdi/resources.md)
     * [Deliverables -&gt; Portfolio](09-other-topics/post-wdi/deliverables.md)
     * [FAQ](09-other-topics/post-wdi/faq.md)
