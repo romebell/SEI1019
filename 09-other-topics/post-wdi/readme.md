@@ -1,8 +1,8 @@
-#Post WDI
+# Post WDI
 
 Class is over... what now?
 
-##Continued Learning
+## Continued Learning
 
 Given the pace of this class, it's impossible to retain 100% of what we covered. Therefore, it's a great idea to review the notes repo. Start at the beginning and you'll notice that concepts that were scary and difficult at first aren't so scary anymore.
 
