@@ -22,7 +22,7 @@ $ pip3 install pymongo
 Remember to start your local MongoDB server:
 
 ```text
-$ mongod
+$ mongo
 ```
 
 **mongo-server.py**:
