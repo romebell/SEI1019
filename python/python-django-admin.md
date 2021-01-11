@@ -4,7 +4,7 @@
 
 Refer to this repo to see fully-implemented custom administrative interfaces:
 
-[https://github.com/WDI-SEA/python-django-song-site](https://github.com/WDI-SEA/python-django-song-site)
+[https://github.com/SEI-ATL/django-song-site](https://github.com/SEI-ATL/django-song-site)
 
 Django generally creates a pretty good administrative interface. It automatically reads the fields off models and creates forms for you to edit your database on a professional-looking web-page.
 
