@@ -4,7 +4,7 @@ As much as Python and Django strive to be readable and strive to configure thing
 
 We try to put good stuff in this cheatsheet but it doesn't have everything! Refer to this repo to see a fully-fleshed out Django app:
 
-[https://github.com/WDI-SEA/python-django-todo](https://github.com/WDI-SEA/python-django-todo)
+[https://github.com/SEI-ATL/django-todo](https://github.com/SEI-ATL/django-todo)
 
 ## Creating A New Site
 
