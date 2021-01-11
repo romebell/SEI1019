@@ -52,19 +52,22 @@ db.drop_collection("blogposts")
 # grab a reference to a database, access a collection using "db.collectionname"
 collection = db.blogposts
 
-post1 = {"author": "Guido",
+post1 = {
+  "author": "Guido",
   "text": "Idea for a Programming Language",
   "tags": ["python", "release", "development"],
   "date": datetime.datetime(1989, 12, 23, 12)
 }
 
-post2 = {"author": "Mongo Team",
+post2 = {
+  "author": "Mongo Team",
   "text": "Introducing MongoDB!",
   "tags": ["mongodb", "release", "development"],
   "date": datetime.datetime(2009, 11, 12, 12)
 }
 
-post3 = {"author": "Guido",
+post3 = {
+  "author": "Guido",
   "text": "Using MongoDB, Python and Flask",
   "tags": ["python", "mongodb", "pymongo", "development"],
   "date": datetime.datetime(2012, 2, 5, 12)
