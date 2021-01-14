@@ -166,7 +166,7 @@ Let's start with a simple template for our "about" page.
     <h1>About the catcollector...</h1>
     <hr />
     <p>Hire the catcollector!</p>
-    <footer>All Rights Reserved, catcollector 2018</footer>
+    <footer>All Rights Reserved, CatCollector 2021</footer>
   </body>
 </html>
 ```
