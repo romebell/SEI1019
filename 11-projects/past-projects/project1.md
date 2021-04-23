@@ -5,12 +5,12 @@
 ## Recent Projects
 
 ### SEI 1019
-* [Fuel Cell Fury](https://zfinnan.github.io/) - Zach Finnan \(SEI 1019\) | [Github Repo](https://github.com/zfinnan/my-cool-game)
-* [Fruitris](https://sschneeberg.github.io) - Simone Schneeberg \(SEI 1019\) | [Github Repo](https://github.com/sschneeberg/fruitris)
-* [Crazy Driver](https://lev-choubine.github.io/) - Lev Choubine \(SEI 1019\) | [Github Repo](https://github.com/lev-choubine/Crazy-Driver)
-* [Rocket Sauce](https://tcgilbert.github.io/) - Thomas Gilbert \(SEI 1019\) | [Github Repo](https://github.com/tcgilbert/rocket-sauce)
-* [Save The Burger](https://canourrea23.github.io/) - Carolina Urrea \(SEI 1019\) | [Github Repo](https://github.com/canourrea23/save-the-burger)
-* [textRPG](https://nikkihmltn.github.io/) - Nicole Hamilton \(SEI 1019\) | [Github Repo](https://github.com/NikkiHmltn/textRPG)
+* [Fuel Cell Fury](https://zfinnan.github.io/) - Zach Finnan \(SEI 1019\) | [Github](https://github.com/zfinnan/my-cool-game)
+* [Fruitris](https://sschneeberg.github.io) - Simone Schneeberg \(SEI 1019\) | [Github](https://github.com/sschneeberg/fruitris)
+* [Crazy Driver](https://lev-choubine.github.io/) - Lev Choubine \(SEI 1019\) | [Github](https://github.com/lev-choubine/Crazy-Driver)
+* [Rocket Sauce](https://tcgilbert.github.io/) - Thomas Gilbert \(SEI 1019\) | [Github](https://github.com/tcgilbert/rocket-sauce)
+* [Save The Burger](https://canourrea23.github.io/) - Carolina Urrea \(SEI 1019\) | [Github](https://github.com/canourrea23/save-the-burger)
+* [textRPG](https://nikkihmltn.github.io/) - Nicole Hamilton \(SEI 1019\) | [Github](https://github.com/NikkiHmltn/textRPG)
 
 ### SEI 713
 * [Super Skier Bro](https://bgoldenberg161.github.io/SuperSkierBro/) - Branden Goldenberg \(SEI 713\)
