@@ -1,6 +1,6 @@
 # Learning Resources
 
-* [HTML/CSS](resources.md#htmlcss)
+* [HTML/CSS](resources.md#html/css)
 * [JavaScript](resources.md#javascript)
   * [ES5](resources.md#es5)
   * [ES6 and Beyond](resources.md#es6-and-beyond)
@@ -27,6 +27,7 @@
   * Try duplicating [popular pens](http://codepen.io/pens/), or get inspiration to create your own masterpieces
 * [DRY CSS](http://vanseodesign.com/css/dry-principles/)
 * [HTML/CSS Style Guide by @mdo](http://codeguide.co/) 
+* [Learn HTML and CSS for free](https://lyty.dev/)
 * Follow the [CSS Tricks](https://css-tricks.com) blog and try out new selectors. Some great CSS Tricks pages:
   * [Code Snippets](https://css-tricks.com/snippets/)
   * [CSS Selector and Property Almanac](https://css-tricks.com/almanac/)
@@ -97,7 +98,6 @@
 * [React Fundamentals w/Egghead.io \(free\)](https://egghead.io/courses/react-fundamentals)
 * [React + Redux w/Egghead.io \(free\)](https://egghead.io/courses/getting-started-with-redux)
 * [create-react-app](https://facebook.github.io/react/blog/2016/07/22/create-apps-with-no-configuration.html)
-
 ### More
 
 * [D3](http://d3js.org/)
