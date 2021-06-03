@@ -98,7 +98,6 @@
 * [React Fundamentals w/Egghead.io \(free\)](https://egghead.io/courses/react-fundamentals)
 * [React + Redux w/Egghead.io \(free\)](https://egghead.io/courses/getting-started-with-redux)
 * [create-react-app](https://facebook.github.io/react/blog/2016/07/22/create-apps-with-no-configuration.html)
-
 ### More
 
 * [D3](http://d3js.org/)
